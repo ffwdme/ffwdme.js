@@ -1,0 +1,32 @@
+{
+    "summary": {
+        "distance": 1215,
+        "duration": 291
+    },
+    "directions": [
+        {
+            "duration": 1,
+            "distance": 5,
+            "street": "Dammweg",
+            "city": null,
+            "turn_type": null,
+            "turn_angle": null,
+            "path": [
+              [49.90419, 8.85184],
+              [49.904171, 8.85177]
+            ]
+        },
+        {
+            "duration": 41,
+            "distance": 170,
+            "street": "Güterstraße",
+            "city": null,
+            "turn_type": "TSHR",
+            "turn_angle": -135,
+            "path": [
+              [49.904171, 8.85177],
+              [49.905548, 8.85279]
+            ]
+        }
+    ]
+}

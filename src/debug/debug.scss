@@ -1,0 +1,88 @@
+.ffwdme-debug-wrapper {
+  $progress_bar_height: 15px;
+  $font_stack: "HelveticaNeue-Bold", "Helvetica-Bold" ,"Droid Sans";
+  $border_dark: #222;
+  $progressbar_bg: #b4e391;
+
+  .progressbar-wrapper {
+    border: 1px solid $border_dark;
+
+    width: 200px;
+    height: $progress_bar_height;
+  }
+
+  .progressbar {
+    background: $progressbar_bg;
+
+    height: $progress_bar_height;
+  }
+
+  fieldset {
+    border: 1px dashed lighten($border_dark, 70);
+  }
+
+  button {
+    border: none;
+    border-radius: 2px;
+    background: rgba(64,64,64, 0.9);
+    color: #fff;
+    font-family: $font_stack;
+    min-width: 100px;
+    line-height: 20px;
+    font-size: 14px;
+    text-align: center;
+
+    margin: 5px 0;
+    padding: 5px 10px;
+  }
+
+  #nav-info-trigger,
+  #routing-trigger,
+  #views-toggle {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 5;
+  }
+
+  #nav-info-trigger {
+    right: 100px;
+  }
+
+  #views-toggle {
+    right: 200px;
+  }
+
+  #nav-info, #routing {
+    font-family: $font_stack;
+    font-size: 12px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 5px solid $border_dark;
+
+    position: absolute;
+    top: 40px;
+    right: 0;
+    width: 100%;
+    max-width: 400px;
+    min-height:400px;
+    padding: 20px;
+    z-index: 4;
+  }
+
+  .hidden {
+    display: none;
+  }
+}
+
+.ffwdme-components-geolocation-debug {
+  text-align: left;
+  padding:10px;
+
+  div{
+    margin-bottom:10px;
+  }
+
+  span{
+    float:right;
+  }
+}

@@ -1,0 +1,124 @@
+{
+    "navInfo": {
+        "type": "navigation:onroute",
+        "distanceToDestination": 908,
+        "distanceToNextDirection": 9,
+        "onRoute": true,
+        "ratioCompletedDirection": 0.59,
+        "ratioCompletedRoute": 0.26,
+        "timeToDestination": 216,
+        "timeToNextDirection": 4,
+        "position": {
+            "lat": 49.90561169359162,
+            "lng": 8.852722883010472
+        },
+        "positionRaw": {
+            "lat": 49.9055976867676,
+            "lng": 8.85271167755127
+        },
+        "currentDirection": {
+            "path": [
+                {
+                    "lat": 49.90559,
+                    "lng": 8.852750000000015
+                },
+                {
+                    "lat": 49.90567,
+                    "lng": 8.852650000000011
+                },
+                {
+                    "lat": 49.905739,
+                    "lng": 8.852540000000005
+                }
+            ],
+            "instruction": "Turn left at Güterstraße",
+            "distance": 22,
+            "path_index": 2,
+            "duration": 5,
+            "earth_direction": "NW",
+            "azimuth": 321.9,
+            "turn_type": "TL",
+            "turn_angle": 90,
+            "street": "Güterstraße"
+        },
+        "raw": {
+            "geoposition": {
+                "coords": {
+                    "accuracy": 47.4216,
+                    "altitude": 201,
+                    "altitudeAccuracy": 23.1642,
+                    "heading": 8,
+                    "latitude": 49.9055976867676,
+                    "longitude": 8.85271167755127,
+                    "speed": 5.91611
+                },
+                "timestamp": 1272989251200,
+                "timestampRelative": 27681
+            },
+            "point": {
+                "lat": 49.9055976867676,
+                "lng": 8.85271167755127
+            },
+            "type": "geoposition:update"
+        },
+        "nearest": {
+            "distance": 1,
+            "point": {
+                "lat": 49.90561169359162,
+                "lng": 8.852722883010472
+            },
+            "directionIndex": 2,
+            "prevPathIndex": 0,
+            "nextPathIndex": 1
+        },
+        "nextDirection": {
+            "path": [
+                {
+                    "lat": 49.905739,
+                    "lng": 8.852540000000005
+                },
+                {
+                    "lat": 49.905479,
+                    "lng": 8.8519
+                },
+                {
+                    "lat": 49.90543,
+                    "lng": 8.851740000000007
+                },
+                {
+                    "lat": 49.905338,
+                    "lng": 8.85145
+                },
+                {
+                    "lat": 49.905312,
+                    "lng": 8.85123999999999
+                },
+                {
+                    "lat": 49.90527,
+                    "lng": 8.850989999999996
+                },
+                {
+                    "lat": 49.905239,
+                    "lng": 8.850719999999995
+                },
+                {
+                    "lat": 49.90522,
+                    "lng": 8.85041000000001
+                },
+                {
+                    "lat": 49.905201,
+                    "lng": 8.849819999999994
+                }
+            ],
+            "instruction": "Turn left at Lagerstraße",
+            "distance": 247,
+            "path_index": 4,
+            "duration": 59,
+            "earth_direction": "SW",
+            "azimuth": 237.8,
+            "turn_type": "TL",
+            "turn_angle": 90,
+            "street": "Lagerstraße"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+.ffwdme-components-statusbar {
+  height: 20px;
+  line-height: 20px;
+  font-size: 16px;
+  z-index: 998;
+  width: 20px;
+  opacity: 0.6;
+  overflow: hidden;
+
+  &.red {
+    background: red;
+  }
+  &.green {
+    background: green;
+  }
+  &.yellow {
+    background: #f8a300;
+  }
+}

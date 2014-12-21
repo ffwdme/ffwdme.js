@@ -1,0 +1,14 @@
+{
+  "geoposition": {
+    "coords": {
+        "accuracy": 500,
+        "altitude": 0,
+        "altitudeAccuracy": -1,
+        "heading": -1,
+        "latitude": 0,
+        "longitude": 75,
+        "speed": -1
+    },
+    "timestamp": 1272989223519
+  }
+}

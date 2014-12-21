@@ -1,0 +1,44 @@
+{
+    "summary": {
+        "distance": 1215,
+        "duration": 291
+    },
+    "directions": [
+        {
+            "duration": 10,
+            "distance": 10,
+            "street": "First",
+            "city": null,
+            "turn_type": null,
+            "turn_angle": null,
+            "path": [
+              [0.0, 0.0],
+              [0.0, 10.0]
+            ]
+        },
+        {
+            "duration": 20,
+            "distance": 40,
+            "street": "Second",
+            "city": null,
+            "turn_type": "TSHR",
+            "turn_angle": -135,
+            "path": [
+              [0.0, 10.0],
+              [0.0, 50.0]
+            ]
+        },
+        {
+            "duration": 30,
+            "distance": 50,
+            "street": "Third",
+            "city": null,
+            "turn_type": "TSHR",
+            "turn_angle": -135,
+            "path": [
+              [0.0, 50.0],
+              [0.0, 80.0]
+            ]
+        }
+    ]
+}

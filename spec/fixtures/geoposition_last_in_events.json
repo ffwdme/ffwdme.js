@@ -1,0 +1,18 @@
+{
+    "geoposition": {
+        "timestamp": 1324394871267,
+        "coords": {
+            "heading": null,
+            "altitude": null,
+            "latitude": 50.111511,
+            "accuracy": 122000,
+            "longitude": 8.680505,
+            "speed": null,
+            "altitudeAccuracy": null
+        }
+    },
+    "point": {
+        "lat": 50.111511,
+        "lng": 8.68050500000001
+    }
+}

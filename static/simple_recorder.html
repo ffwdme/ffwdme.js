@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Simple recorder</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+      <script type="text/javascript" src="/ffwdme-core.min.js"></script>
+      <script type="text/javascript" src="/ffwdme-components.min.js"></script>
+      <script type="text/javascript" src="/ffwdme-debug.min.js"></script>
+
+      <style>
+
+        html, body {
+          color: #333;
+        }
+
+        button {
+          margin: 5px 0;
+          padding: 5px 10px;
+
+          border: none;
+          border-top: 1px solid rgba(255, 255, 255, 0.3);
+          border-radius: 5px;
+          box-shadow:  0px -1px 0px #333;
+          background: rgba(64,64,64, 1);
+          color: #fff;
+          text-shadow: 0px 1px 0px rgba(0,0,0, 0.7);
+          font-family: "HelveticaNeue-Bold", "Helvetica-Bold" ,"Droid Sans";
+          font-size: 12pt;
+          text-align: center;
+          width: 100%;
+          height: 80px;
+        }
+
+        textarea {
+          font-family: monospace;
+          width: 100%;
+          height: 200px;
+        }
+      </style>
+
+
+      <script>
+        function init(){
+          ffwdme.initialize({});
+
+          SimpleRecorder = ffwdme.debug.geoprovider.Recorder.extend({
+            save: function() {
+              document.getElementById('recorded').innerHTML = recorder.track.toJSON();
+            }
+          });
+
+          ffwdme.on('geoposition:update', function(position) {
+            if(recorder.track) {
+              document.getElementById('count').innerHTML = recorder.track.points.length;
+            }
+          });
+
+          var recorder = new SimpleRecorder();
+
+          document.getElementById('control').addEventListener('click', function(){
+            if (!recorder.recording) {
+              console.info('Started recording...');
+              recorder.start();
+              document.getElementById('control').innerText = 'STOP';
+            } else {
+              console.info('Stopped recording!');
+              recorder.stop();
+              recorder.save();
+              document.getElementById('control').innerText = 'START';
+            }
+          });
+        }
+      </script>
+
+  </head>
+  <body onload="init()">
+    <p>
+      <button id="control">Start capturing...</button>
+    </p>
+    <p>
+      <textarea id="recorded"></textarea>
+    </p>
+    <p>
+      Count: <span id="count">0</span> positions recorded.
+    </p>
+  </body>
+</html>

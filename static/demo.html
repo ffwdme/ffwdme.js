@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>ffwdme Demo Page</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+        <link rel="stylesheet" href="/demo/demo.css" />
+        <link rel="stylesheet" href="/components/components.css" />
+        <link rel="stylesheet" href="/debug/debug.css" />
+        <link rel="stylesheet" href="/vendor/leaflet/leaflet.css">
+
+        <script src="/ffwdme-core.js"></script>
+        <script src="/ffwdme-components.js"></script>
+        <script src="/ffwdme-debug.js"></script>
+
+        <script src="/vendor/zepto/zepto.js"></script>
+        <script src="/vendor/leaflet/leaflet-src.js"></script>
+
+        <script src="/demo/credentials.js"></script>
+        <script src="/demo/app.js"></script>
+    </head>
+    <body onload="init()" style="">
+      <div id="loader">Wait for geolocation...</div>
+      <div id="map"></div>
+
+      <div class="ffwdme-debug-wrapper">
+        <button id="views-toggle" class="hidden">Toggle Components</button>
+        <button id="nav-info-trigger" class="hidden">Nav Info</button>
+        <button id="routing-trigger" class="hidden">Routing</button>
+
+        <div id="nav-info" class="hidden">
+          <p>
+            <span>Next street:</span><br/>
+            <strong id="street">?</strong>
+          </p>
+          <p>
+            <span>Next turn:</span><br/>
+            <strong id="turnAngle">?</strong> deg
+          </p>
+          <p>
+            <span>Distance to turn:</span><br/>
+            <strong id="distanceToNextDirection">?</strong> m
+          </p>
+          <p>
+            <span>Distance to destination</span><br/>
+            <strong id="distanceToDestination">?</strong> m
+          </p>
+          <p>
+            <span>Time to next direction</span><br/>
+            <strong id="timeToNextDirection">?</strong> secs
+          </p>
+          <p>
+            <span>Time to destination</span><br/>
+            <strong id="timeToDestination">?</strong> secs
+          </p>
+          <p>
+            <span>Progress current direction</span> (<span id="ratioCompletedDirection">?</span>)<br/>
+            <div class="progressbar-wrapper">
+              <div id ="ratio-completed-direction-progress" class="progressbar"></div>
+            </div>
+          </p>
+
+          <p>
+            <span>Progress route</span> (<span id="ratioCompletedRoute">?</span>)<br/>
+            <div class="progressbar-wrapper">
+              <div id="ratio-completed-route-progress" class="progressbar"></div>
+            </div>
+          </p>
+        </div>
+
+        <div id="routing" class="hidden">
+          <fieldset>
+            <legend><h3>Load GeoProvider/Route Combination</h3></legend>
+            <fieldset>
+              <select id="select-combination">
+                <option value="dieburg_philipp_reis_altheimer;49.89752;8.85370;49.90455;8.85799">Dieburg P. Reis Str -> Altheimer Str.</option>
+                <option value="dieburg_parkstr_philipp_reis;49.89479;8.83578;49.89832;8.85185">Dieburg Parkstr. -> P. Reis Str</option>
+                <option value="dieburg_kaufland_hergershausen;49.88848;8.844907;49.93565;8.91363">Dieburg Kaufland -> Hergershausen</option>
+                <option value="dieburg_kreisel_wrong_turn;49.88828;8.842847;49.9020529;8.86059">Dieburg Kaufland -> Campus</option>
+                <option value="dieburg_campus_kreisel;49.88828;8.842847;49.9020529;8.86059">Dieburg Kaufland -> Campus Alternative</option>
+              </select>
+            </fieldset>
+            <button id="load-combination">
+              Load
+            </button>
+          </fieldset>
+          <fieldset>
+            <legend><h3>Geoprovider</h3></legend>
+            <p>
+              Loaded track: <span id="geoprovider-track">none</span>
+            </p>
+            <button id="player-start">
+              Play
+            </button>
+            <button id="player-pause">
+              Pause
+            </button>
+            <button id="player-reset">
+              Reset
+            </button>
+          </fieldset>
+          <fieldset>
+            <legend><h3>Custom Route</h3></legend>
+            <fieldset>
+              <legend> Start </legend>
+              <input type="text" id="custom-route-start-lat" value="49.88830" />
+              <input type="text" id="custom-route-start-lng" value="8.84381" />
+            </fieldset>
+            <fieldset>
+              <legend> Destination </legend>
+              <input type="text" id="custom-route-dest-lat" value="49.90206" />
+              <input type="text" id="custom-route-dest-lng" value="8.86007" />
+            </fieldset>
+            <button id="calc-route-by-form">GO!</button>
+          </fieldset>
+        </div>
+      </div>
+
+      <div id="playground" class="ffwdme-components-wrapper"></div>
+    </body>
+</html>

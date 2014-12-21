@@ -1,0 +1,19 @@
+{
+    "track": {
+        "points": [
+            {
+                "coords": {
+                    "accuracy": 500,
+                    "altitude": 0,
+                    "altitudeAccuracy": -1,
+                    "heading": -1,
+                    "latitude": 49.9022560119629,
+                    "longitude": 8.84411334991455,
+                    "speed": -1
+                },
+                "timestamp": 1272989223519,
+                "timestampRelative": 0
+            }
+        ]
+    }
+}

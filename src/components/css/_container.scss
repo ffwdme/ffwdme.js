@@ -1,0 +1,42 @@
+.ffwdme-components-container {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+
+  z-index: 100;
+  position: absolute;
+
+  overflow: hidden;
+
+  @include widget-font-style;
+  @include widget-border-style;
+
+  a, a:visited {
+    color: #fff !important;
+    text-decoration: none;
+  }
+
+  /*The widget styles*/
+  @include widget-background-style($widget-default-background);
+
+  &.ffwdme-theme-blue {
+    @include widget-background-style($widget-blue-background);
+  }
+  &.ffwdme-theme-orange {
+    @include widget-background-style($widget-orange-background);
+  }
+  &.ffwdme-theme-green {
+    @include widget-background-style($widget-green-background);
+  }
+  &.ffwdme-theme-red {
+    @include widget-background-style($widget-red-background);
+  }
+  &.ffwdme-theme-purple {
+    @include widget-background-style($widget-purple-background);
+  }
+  &.ffwdme-theme-pink {
+    @include widget-background-style($widget-pink-background);
+  }
+}

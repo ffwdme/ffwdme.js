@@ -1,0 +1,22 @@
+@mixin widget-background-style($color){
+  border-color: $color;
+  background: $color;
+  background-size: 50px 50px, auto;
+}
+
+@mixin widget-font-style{
+  font-weight: bold;
+  font-size: 100%;
+  text-align: center;
+  color: $widget-font-color;
+  font-family: $widget-font-family;
+  text-shadow: $widget-font-shadow;
+}
+
+@mixin widget-border-style{
+  border-style: solid;
+  box-shadow:         $widget-border-shadow;
+  box-sizing: border-box;
+  border-radius: $widget-border-radius;
+  border-width: $widget-border-width;
+}

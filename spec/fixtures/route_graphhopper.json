@@ -1,0 +1,72 @@
+{
+    "paths": [
+        {
+            "points_encoded": true,
+            "time": 151213,
+            "distance": 2496.736,
+            "instructions": [
+                {
+                    "sign": 0,
+                    "text": "Continue onto Im Flürchen",
+                    "time": 9155,
+                    "distance": 76.307,
+                    "interval": [
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "sign": 2,
+                    "text": "Turn right onto Klein-Zimmerner-Straße, K 126",
+                    "time": 14758,
+                    "distance": 204.981,
+                    "interval": [
+                        4,
+                        9
+                    ]
+                },
+                {
+                    "sign": 2,
+                    "text": "Turn right onto K 128",
+                    "time": 118868,
+                    "distance": 2145.176,
+                    "interval": [
+                        9,
+                        38
+                    ]
+                },
+                {
+                    "sign": -3,
+                    "text": "Turn sharp left onto Hohe Straße",
+                    "time": 8432,
+                    "distance": 70.272,
+                    "interval": [
+                        38,
+                        39
+                    ]
+                },
+                {
+                    "sign": 4,
+                    "text": "Finish!",
+                    "time": 0,
+                    "distance": 0,
+                    "interval": [
+                        39,
+                        39
+                    ]
+                }
+            ],
+            "bbox": [
+                8.842675,
+                49.888209,
+                8.861049,
+                49.902101
+            ],
+            "points_dimension": 2,
+            "points": "cynoHwh~t@Jz@Nz@Cr@@`@_DRSEu@BqBESECKMOE[SsCkBo`@g@cJi@_Fm@}DaB{GiAcDeA_CuBeEM[CYGOMGKBUOq@w@UOsAwAe@_@}B{AkAm@}Aq@oA_@oRuDuGyA_FaAH`E"
+        }
+    ],
+    "info": {
+        "took": 3
+    }
+}

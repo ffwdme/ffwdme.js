@@ -1,0 +1,3165 @@
+{
+    "track": {
+        "points": [
+            {
+                "coords": {
+                    "latitude": 49.89479445391325,
+                    "longitude": 8.835780126982215,
+                    "altitude": 142.5376853942871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": null,
+                    "speed": 0
+                },
+                "timestamp": 1418895868953,
+                "timestampRelative": 0
+            },
+            {
+                "coords": {
+                    "latitude": 49.8945717886555,
+                    "longitude": 8.83510555141497,
+                    "altitude": 143.37917709350586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": null,
+                    "speed": 0
+                },
+                "timestamp": 1418895869962,
+                "timestampRelative": 1009
+            },
+            {
+                "coords": {
+                    "latitude": 49.894750490831115,
+                    "longitude": 8.835816001527789,
+                    "altitude": 142.6277732849121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 61.875,
+                    "speed": 0.1599999964237213
+                },
+                "timestamp": 1418895871079,
+                "timestampRelative": 2126
+            },
+            {
+                "coords": {
+                    "latitude": 49.89475287967352,
+                    "longitude": 8.835822623231294,
+                    "altitude": 142.1579246520996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 61.875,
+                    "speed": 0.6100000143051147
+                },
+                "timestamp": 1418895872076,
+                "timestampRelative": 3123
+            },
+            {
+                "coords": {
+                    "latitude": 49.8947702721226,
+                    "longitude": 8.835831424229625,
+                    "altitude": 142.5756492614746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 33.046875,
+                    "speed": 1.4199999570846558
+                },
+                "timestamp": 1418895873090,
+                "timestampRelative": 4137
+            },
+            {
+                "coords": {
+                    "latitude": 49.89479625602243,
+                    "longitude": 8.835847685121777,
+                    "altitude": 142.2465476989746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 31.9921875,
+                    "speed": 2.109999895095825
+                },
+                "timestamp": 1418895874079,
+                "timestampRelative": 5126
+            },
+            {
+                "coords": {
+                    "latitude": 49.894838500814416,
+                    "longitude": 8.835881799467685,
+                    "altitude": 142.23488998413086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 30.5859375,
+                    "speed": 4.340000152587891
+                },
+                "timestamp": 1418895875081,
+                "timestampRelative": 6128
+            },
+            {
+                "coords": {
+                    "latitude": 49.89488845695732,
+                    "longitude": 8.835925133907082,
+                    "altitude": 142.2996482849121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 30.5859375,
+                    "speed": 5.619999885559082
+                },
+                "timestamp": 1418895876284,
+                "timestampRelative": 7331
+            },
+            {
+                "coords": {
+                    "latitude": 49.894963768357314,
+                    "longitude": 8.835985986524108,
+                    "altitude": 141.48464584350586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 31.2890625,
+                    "speed": 6.28000020980835
+                },
+                "timestamp": 1418895877076,
+                "timestampRelative": 8123
+            },
+            {
+                "coords": {
+                    "latitude": 49.89501988519905,
+                    "longitude": 8.836023537450316,
+                    "altitude": 140.8224754333496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 27.7734375,
+                    "speed": 6.21999979019165
+                },
+                "timestamp": 1418895878079,
+                "timestampRelative": 9126
+            },
+            {
+                "coords": {
+                    "latitude": 49.89507390656499,
+                    "longitude": 8.836055807777527,
+                    "altitude": 140.7018699645996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 21.796875,
+                    "speed": 6.449999809265137
+                },
+                "timestamp": 1418895879088,
+                "timestampRelative": 10135
+            },
+            {
+                "coords": {
+                    "latitude": 49.89513425626782,
+                    "longitude": 8.836077768363836,
+                    "altitude": 140.5874900817871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 15.1171875,
+                    "speed": 6.46999979019165
+                },
+                "timestamp": 1418895880077,
+                "timestampRelative": 11124
+            },
+            {
+                "coords": {
+                    "latitude": 49.895191714214064,
+                    "longitude": 8.836084641524437,
+                    "altitude": 140.6056785583496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 8.7890625,
+                    "speed": 6.340000152587891
+                },
+                "timestamp": 1418895881076,
+                "timestampRelative": 12123
+            },
+            {
+                "coords": {
+                    "latitude": 49.89524883688418,
+                    "longitude": 8.83609117940891,
+                    "altitude": 141.1720848083496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 4.5703125,
+                    "speed": 6.070000171661377
+                },
+                "timestamp": 1418895882076,
+                "timestampRelative": 13123
+            },
+            {
+                "coords": {
+                    "latitude": 49.895301978150286,
+                    "longitude": 8.836103584625604,
+                    "altitude": 141.5503807067871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 5.625,
+                    "speed": 5.960000038146973
+                },
+                "timestamp": 1418895883075,
+                "timestampRelative": 14122
+            },
+            {
+                "coords": {
+                    "latitude": 49.89535680682202,
+                    "longitude": 8.836119900515769,
+                    "altitude": 142.31875228881836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 4.763706207275391,
+                    "speed": 5.949999809265137
+                },
+                "timestamp": 1418895884105,
+                "timestampRelative": 15152
+            },
+            {
+                "coords": {
+                    "latitude": 49.89541601848855,
+                    "longitude": 8.836127560462046,
+                    "altitude": 142.6183738708496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 4.763706207275391,
+                    "speed": 6.320000171661377
+                },
+                "timestamp": 1418895885090,
+                "timestampRelative": 16137
+            },
+            {
+                "coords": {
+                    "latitude": 49.895469548544426,
+                    "longitude": 8.83612407837063,
+                    "altitude": 142.64406967163086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 355.8150939941406,
+                    "speed": 6.210000038146973
+                },
+                "timestamp": 1418895886082,
+                "timestampRelative": 17129
+            },
+            {
+                "coords": {
+                    "latitude": 49.89549411209952,
+                    "longitude": 8.836121288113645,
+                    "altitude": 142.56655502319336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 355.8150939941406,
+                    "speed": 5.71999979019165
+                },
+                "timestamp": 1418895887086,
+                "timestampRelative": 18133
+            },
+            {
+                "coords": {
+                    "latitude": 49.89553597760845,
+                    "longitude": 8.836112945173227,
+                    "altitude": 142.7279930114746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 352.4053649902344,
+                    "speed": 5.389999866485596
+                },
+                "timestamp": 1418895888082,
+                "timestampRelative": 19129
+            },
+            {
+                "coords": {
+                    "latitude": 49.89557353288531,
+                    "longitude": 8.836100332046044,
+                    "altitude": 142.7621726989746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 347.7352294921875,
+                    "speed": 4.980000019073486
+                },
+                "timestamp": 1418895889070,
+                "timestampRelative": 20117
+            },
+            {
+                "coords": {
+                    "latitude": 49.89561774003012,
+                    "longitude": 8.83607705720351,
+                    "altitude": 142.7972068786621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 340.8662414550781,
+                    "speed": 4.409999847412109
+                },
+                "timestamp": 1418895890074,
+                "timestampRelative": 21121
+            },
+            {
+                "coords": {
+                    "latitude": 49.89564543931487,
+                    "longitude": 8.836053286977403,
+                    "altitude": 143.1106834411621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 330.80267333984375,
+                    "speed": 3.799999952316284
+                },
+                "timestamp": 1418895891089,
+                "timestampRelative": 22136
+            },
+            {
+                "coords": {
+                    "latitude": 49.895675171714664,
+                    "longitude": 8.836023249641585,
+                    "altitude": 143.1947898864746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 326.61138916015625,
+                    "speed": 3.369999885559082
+                },
+                "timestamp": 1418895892069,
+                "timestampRelative": 23116
+            },
+            {
+                "coords": {
+                    "latitude": 49.895703593355506,
+                    "longitude": 8.83599295069871,
+                    "altitude": 143.15066146850586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 4.409999847412109
+                },
+                "timestamp": 1418895893104,
+                "timestampRelative": 24151
+            },
+            {
+                "coords": {
+                    "latitude": 49.89573846902058,
+                    "longitude": 8.835954861497157,
+                    "altitude": 142.5212059020996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 4.809999942779541
+                },
+                "timestamp": 1418895894099,
+                "timestampRelative": 25146
+            },
+            {
+                "coords": {
+                    "latitude": 49.89576632916511,
+                    "longitude": 8.83592443420639,
+                    "altitude": 142.48025131225586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 4.420000076293945
+                },
+                "timestamp": 1418895895077,
+                "timestampRelative": 26124
+            },
+            {
+                "coords": {
+                    "latitude": 49.89579458402308,
+                    "longitude": 8.835893575378577,
+                    "altitude": 142.6294822692871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 3.450000047683716
+                },
+                "timestamp": 1418895896077,
+                "timestampRelative": 27124
+            },
+            {
+                "coords": {
+                    "latitude": 49.895810650766165,
+                    "longitude": 8.835876028388157,
+                    "altitude": 142.6526756286621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 2.1700000762939453
+                },
+                "timestamp": 1418895897095,
+                "timestampRelative": 28142
+            },
+            {
+                "coords": {
+                    "latitude": 49.89582408390156,
+                    "longitude": 8.835861357438262,
+                    "altitude": 142.55605697631836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 1.4199999570846558
+                },
+                "timestamp": 1418895898121,
+                "timestampRelative": 29168
+            },
+            {
+                "coords": {
+                    "latitude": 49.89583383707747,
+                    "longitude": 8.835850705218036,
+                    "altitude": 142.8922996520996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 1.2400000095367432
+                },
+                "timestamp": 1418895899115,
+                "timestampRelative": 30162
+            },
+            {
+                "coords": {
+                    "latitude": 49.89584308563513,
+                    "longitude": 8.835840604697296,
+                    "altitude": 143.1116600036621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 1.090000033378601
+                },
+                "timestamp": 1418895900122,
+                "timestampRelative": 31169
+            },
+            {
+                "coords": {
+                    "latitude": 49.89584922624025,
+                    "longitude": 8.835833898192504,
+                    "altitude": 143.0568504333496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 1.0499999523162842
+                },
+                "timestamp": 1418895901139,
+                "timestampRelative": 32186
+            },
+            {
+                "coords": {
+                    "latitude": 49.895857446369355,
+                    "longitude": 8.835824920388404,
+                    "altitude": 142.71804428100586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 324.8721008300781,
+                    "speed": 1.1799999475479126
+                },
+                "timestamp": 1418895902114,
+                "timestampRelative": 33161
+            },
+            {
+                "coords": {
+                    "latitude": 49.89586631632863,
+                    "longitude": 8.835815233069297,
+                    "altitude": 142.8069725036621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 3.8671875,
+                    "speed": 1.5199999809265137
+                },
+                "timestamp": 1418895903108,
+                "timestampRelative": 34155
+            },
+            {
+                "coords": {
+                    "latitude": 49.895874556280894,
+                    "longitude": 8.835806233983021,
+                    "altitude": 142.9508934020996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 31.9921875,
+                    "speed": 1.8799999952316284
+                },
+                "timestamp": 1418895904117,
+                "timestampRelative": 35164
+            },
+            {
+                "coords": {
+                    "latitude": 49.895886917627465,
+                    "longitude": 8.835815210249079,
+                    "altitude": 142.8612937927246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 50.2734375,
+                    "speed": 3.4000000953674316
+                },
+                "timestamp": 1418895905110,
+                "timestampRelative": 36157
+            },
+            {
+                "coords": {
+                    "latitude": 49.896004649173115,
+                    "longitude": 8.836050139186277,
+                    "altitude": 142.72085189819336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 52.11262130737305,
+                    "speed": 6.420000076293945
+                },
+                "timestamp": 1418895906139,
+                "timestampRelative": 37186
+            },
+            {
+                "coords": {
+                    "latitude": 49.89604164315323,
+                    "longitude": 8.836124708687116,
+                    "altitude": 142.1847801208496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 52.11262130737305,
+                    "speed": 7.260000228881836
+                },
+                "timestamp": 1418895907130,
+                "timestampRelative": 38177
+            },
+            {
+                "coords": {
+                    "latitude": 49.896078599284074,
+                    "longitude": 8.836207426023572,
+                    "altitude": 141.6501121520996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 52.11262130737305,
+                    "speed": 7.829999923706055
+                },
+                "timestamp": 1418895908108,
+                "timestampRelative": 39155
+            },
+            {
+                "coords": {
+                    "latitude": 49.896114999526574,
+                    "longitude": 8.836302564696847,
+                    "altitude": 141.4981346130371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 50.9644889831543,
+                    "speed": 7.409999847412109
+                },
+                "timestamp": 1418895909166,
+                "timestampRelative": 40213
+            },
+            {
+                "coords": {
+                    "latitude": 49.896152915568514,
+                    "longitude": 8.836394811392607,
+                    "altitude": 141.26906967163086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 54.395423889160156,
+                    "speed": 7.420000076293945
+                },
+                "timestamp": 1418895910116,
+                "timestampRelative": 41163
+            },
+            {
+                "coords": {
+                    "latitude": 49.89617377989916,
+                    "longitude": 8.836475322031264,
+                    "altitude": 141.20022201538086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 67.5,
+                    "speed": 6.659999847412109
+                },
+                "timestamp": 1418895911129,
+                "timestampRelative": 42176
+            },
+            {
+                "coords": {
+                    "latitude": 49.896184215368606,
+                    "longitude": 8.836551429712062,
+                    "altitude": 141.5657615661621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.1796875,
+                    "speed": 5.570000171661377
+                },
+                "timestamp": 1418895912116,
+                "timestampRelative": 43163
+            },
+            {
+                "coords": {
+                    "latitude": 49.89618966360567,
+                    "longitude": 8.83662904613543,
+                    "altitude": 141.5763816833496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 87.1875,
+                    "speed": 6.050000190734863
+                },
+                "timestamp": 1418895913117,
+                "timestampRelative": 44164
+            },
+            {
+                "coords": {
+                    "latitude": 49.896187568129875,
+                    "longitude": 8.836719319232587,
+                    "altitude": 141.5481834411621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 99.140625,
+                    "speed": 6.860000133514404
+                },
+                "timestamp": 1418895914143,
+                "timestampRelative": 45190
+            },
+            {
+                "coords": {
+                    "latitude": 49.896175384396656,
+                    "longitude": 8.836720842017597,
+                    "altitude": 141.4770164489746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 76.60742950439453,
+                    "speed": 7.179999828338623
+                },
+                "timestamp": 1418895915115,
+                "timestampRelative": 46162
+            },
+            {
+                "coords": {
+                    "latitude": 49.89613930019705,
+                    "longitude": 8.836948863248121,
+                    "altitude": 141.5434226989746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 127.94214630126953,
+                    "speed": 8.239999771118164
+                },
+                "timestamp": 1418895916123,
+                "timestampRelative": 47170
+            },
+            {
+                "coords": {
+                    "latitude": 49.89611829675821,
+                    "longitude": 8.8370360318668,
+                    "altitude": 141.8628807067871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 127.94214630126953,
+                    "speed": 8.930000305175781
+                },
+                "timestamp": 1418895917122,
+                "timestampRelative": 48169
+            },
+            {
+                "coords": {
+                    "latitude": 49.89608391440679,
+                    "longitude": 8.837152429553626,
+                    "altitude": 141.2702293395996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 121.60758209228516,
+                    "speed": 9.329999923706055
+                },
+                "timestamp": 1418895918116,
+                "timestampRelative": 49163
+            },
+            {
+                "coords": {
+                    "latitude": 49.896056769322605,
+                    "longitude": 8.837265848551946,
+                    "altitude": 141.0783348083496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 105.4222183227539,
+                    "speed": 9.460000038146973
+                },
+                "timestamp": 1418895919158,
+                "timestampRelative": 50205
+            },
+            {
+                "coords": {
+                    "latitude": 49.89603397650244,
+                    "longitude": 8.83741026628272,
+                    "altitude": 141.11538314819336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 94.05355072021484,
+                    "speed": 9.899999618530273
+                },
+                "timestamp": 1418895920123,
+                "timestampRelative": 51170
+            },
+            {
+                "coords": {
+                    "latitude": 49.89603570021364,
+                    "longitude": 8.837547589992873,
+                    "altitude": 140.7395896911621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 85.1354751586914,
+                    "speed": 10.359999656677246
+                },
+                "timestamp": 1418895921102,
+                "timestampRelative": 52149
+            },
+            {
+                "coords": {
+                    "latitude": 49.896047830092435,
+                    "longitude": 8.837684849039086,
+                    "altitude": 140.2022361755371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.5142822265625,
+                    "speed": 9.220000267028809
+                },
+                "timestamp": 1418895922116,
+                "timestampRelative": 53163
+            },
+            {
+                "coords": {
+                    "latitude": 49.8960612995928,
+                    "longitude": 8.837803695757657,
+                    "altitude": 140.6016502380371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.5142822265625,
+                    "speed": 8.859999656677246
+                },
+                "timestamp": 1418895923120,
+                "timestampRelative": 54167
+            },
+            {
+                "coords": {
+                    "latitude": 49.89607881273419,
+                    "longitude": 8.837928617336889,
+                    "altitude": 141.05434799194336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.73979187011719,
+                    "speed": 9.3100004196167
+                },
+                "timestamp": 1418895924131,
+                "timestampRelative": 55178
+            },
+            {
+                "coords": {
+                    "latitude": 49.896092946297344,
+                    "longitude": 8.838063067938561,
+                    "altitude": 141.5877342224121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.73979187011719,
+                    "speed": 9.239999771118164
+                },
+                "timestamp": 1418895925134,
+                "timestampRelative": 56181
+            },
+            {
+                "coords": {
+                    "latitude": 49.896119433308726,
+                    "longitude": 8.838174001475712,
+                    "altitude": 142.10976791381836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 9.069999694824219
+                },
+                "timestamp": 1418895926111,
+                "timestampRelative": 57158
+            },
+            {
+                "coords": {
+                    "latitude": 49.896142509975945,
+                    "longitude": 8.838288121495633,
+                    "altitude": 141.8282127380371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 8.84000015258789
+                },
+                "timestamp": 1418895927131,
+                "timestampRelative": 58178
+            },
+            {
+                "coords": {
+                    "latitude": 49.89616503388246,
+                    "longitude": 8.83839971442807,
+                    "altitude": 142.1538963317871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 8.5
+                },
+                "timestamp": 1418895928136,
+                "timestampRelative": 59183
+            },
+            {
+                "coords": {
+                    "latitude": 49.8961921810778,
+                    "longitude": 8.838508317064491,
+                    "altitude": 141.97927474975586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 8.390000343322754
+                },
+                "timestamp": 1418895929113,
+                "timestampRelative": 60160
+            },
+            {
+                "coords": {
+                    "latitude": 49.89621129802209,
+                    "longitude": 8.838612665601374,
+                    "altitude": 142.0451316833496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 7.630000114440918
+                },
+                "timestamp": 1418895930111,
+                "timestampRelative": 61158
+            },
+            {
+                "coords": {
+                    "latitude": 49.89622619481366,
+                    "longitude": 8.83871963914972,
+                    "altitude": 141.68850326538086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 7.630000114440918
+                },
+                "timestamp": 1418895931100,
+                "timestampRelative": 62147
+            },
+            {
+                "coords": {
+                    "latitude": 49.896243333321564,
+                    "longitude": 8.838763113851448,
+                    "altitude": 141.92641830444336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 4.389999866485596
+                },
+                "timestamp": 1418895932126,
+                "timestampRelative": 63173
+            },
+            {
+                "coords": {
+                    "latitude": 49.896255706639764,
+                    "longitude": 8.838810376534521,
+                    "altitude": 141.77907943725586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 2.2200000286102295
+                },
+                "timestamp": 1418895933127,
+                "timestampRelative": 64174
+            },
+            {
+                "coords": {
+                    "latitude": 49.89626416821056,
+                    "longitude": 8.838826046951443,
+                    "altitude": 141.77883529663086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 1.9500000476837158
+                },
+                "timestamp": 1418895934143,
+                "timestampRelative": 65190
+            },
+            {
+                "coords": {
+                    "latitude": 49.896263821879785,
+                    "longitude": 8.838846169139588,
+                    "altitude": 141.8086814880371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 73.97282409667969,
+                    "speed": 1.9900000095367432
+                },
+                "timestamp": 1418895935153,
+                "timestampRelative": 66200
+            },
+            {
+                "coords": {
+                    "latitude": 49.8962678021269,
+                    "longitude": 8.838858484300244,
+                    "altitude": 140.3227195739746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 4.010000228881836
+                },
+                "timestamp": 1418895936143,
+                "timestampRelative": 67190
+            },
+            {
+                "coords": {
+                    "latitude": 49.89628578536911,
+                    "longitude": 8.838917489172758,
+                    "altitude": 139.8730125427246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 5.019999980926514
+                },
+                "timestamp": 1418895937131,
+                "timestampRelative": 68178
+            },
+            {
+                "coords": {
+                    "latitude": 49.896312116585406,
+                    "longitude": 8.83900552679808,
+                    "altitude": 141.0796775817871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 5.809999942779541
+                },
+                "timestamp": 1418895938140,
+                "timestampRelative": 69187
+            },
+            {
+                "coords": {
+                    "latitude": 49.89633055188549,
+                    "longitude": 8.839094714162576,
+                    "altitude": 140.7864646911621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 7.210000038146973
+                },
+                "timestamp": 1418895939097,
+                "timestampRelative": 70144
+            },
+            {
+                "coords": {
+                    "latitude": 49.89634614928429,
+                    "longitude": 8.839202885746703,
+                    "altitude": 140.5087547302246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 8.729999542236328
+                },
+                "timestamp": 1418895940081,
+                "timestampRelative": 71128
+            },
+            {
+                "coords": {
+                    "latitude": 49.896359862196796,
+                    "longitude": 8.839314317709304,
+                    "altitude": 140.2514305114746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 8.569999694824219
+                },
+                "timestamp": 1418895941091,
+                "timestampRelative": 72138
+            },
+            {
+                "coords": {
+                    "latitude": 49.896379475163506,
+                    "longitude": 8.839440955226804,
+                    "altitude": 140.6123924255371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 9.449999809265137
+                },
+                "timestamp": 1418895942102,
+                "timestampRelative": 73149
+            },
+            {
+                "coords": {
+                    "latitude": 49.896400435832575,
+                    "longitude": 8.839578054524749,
+                    "altitude": 140.7361717224121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 10.300000190734863
+                },
+                "timestamp": 1418895943106,
+                "timestampRelative": 74153
+            },
+            {
+                "coords": {
+                    "latitude": 49.89642569679325,
+                    "longitude": 8.83972107712741,
+                    "altitude": 140.6424217224121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 10.8100004196167
+                },
+                "timestamp": 1418895944100,
+                "timestampRelative": 75147
+            },
+            {
+                "coords": {
+                    "latitude": 49.896435382851294,
+                    "longitude": 8.839803855926728,
+                    "altitude": 140.31179428100586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.97282409667969,
+                    "speed": 11.470000267028809
+                },
+                "timestamp": 1418895945078,
+                "timestampRelative": 76125
+            },
+            {
+                "coords": {
+                    "latitude": 49.89647820694412,
+                    "longitude": 8.840044112496884,
+                    "altitude": 140.3632469177246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 12.069999694824219
+                },
+                "timestamp": 1418895946094,
+                "timestampRelative": 77141
+            },
+            {
+                "coords": {
+                    "latitude": 49.8965084497229,
+                    "longitude": 8.840193529932941,
+                    "altitude": 140.59572982788086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.739999771118164
+                },
+                "timestamp": 1418895947101,
+                "timestampRelative": 78148
+            },
+            {
+                "coords": {
+                    "latitude": 49.89653738630273,
+                    "longitude": 8.84035290326812,
+                    "altitude": 140.70119857788086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.829999923706055
+                },
+                "timestamp": 1418895948101,
+                "timestampRelative": 79148
+            },
+            {
+                "coords": {
+                    "latitude": 49.89656712988731,
+                    "longitude": 8.840507661264633,
+                    "altitude": 141.1938133239746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.869999885559082
+                },
+                "timestamp": 1418895949112,
+                "timestampRelative": 80159
+            },
+            {
+                "coords": {
+                    "latitude": 49.896599358633495,
+                    "longitude": 8.840676278319897,
+                    "altitude": 141.7461814880371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.800000190734863
+                },
+                "timestamp": 1418895950082,
+                "timestampRelative": 81129
+            },
+            {
+                "coords": {
+                    "latitude": 49.89663281799103,
+                    "longitude": 8.840830248349768,
+                    "altitude": 141.6431541442871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.90999984741211
+                },
+                "timestamp": 1418895951107,
+                "timestampRelative": 82154
+            },
+            {
+                "coords": {
+                    "latitude": 49.896652709715944,
+                    "longitude": 8.840975640136323,
+                    "altitude": 140.0871238708496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.670000076293945
+                },
+                "timestamp": 1418895952114,
+                "timestampRelative": 83161
+            },
+            {
+                "coords": {
+                    "latitude": 49.896682117166044,
+                    "longitude": 8.84112762729113,
+                    "altitude": 138.5891990661621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 74.59081268310547,
+                    "speed": 11.6899995803833
+                },
+                "timestamp": 1418895953119,
+                "timestampRelative": 84166
+            },
+            {
+                "coords": {
+                    "latitude": 49.896702818856376,
+                    "longitude": 8.84129078743446,
+                    "altitude": 138.3477439880371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 74.59081268310547,
+                    "speed": 11.430000305175781
+                },
+                "timestamp": 1418895954132,
+                "timestampRelative": 85179
+            },
+            {
+                "coords": {
+                    "latitude": 49.89673210337764,
+                    "longitude": 8.841441694973794,
+                    "altitude": 139.93117904663086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.3100004196167
+                },
+                "timestamp": 1418895955129,
+                "timestampRelative": 86176
+            },
+            {
+                "coords": {
+                    "latitude": 49.896762084442,
+                    "longitude": 8.841594011465421,
+                    "altitude": 140.16091537475586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.170000076293945
+                },
+                "timestamp": 1418895956113,
+                "timestampRelative": 87160
+            },
+            {
+                "coords": {
+                    "latitude": 49.89678264157343,
+                    "longitude": 8.841697641076628,
+                    "altitude": 140.28689193725586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.59081268310547,
+                    "speed": 11.210000038146973
+                },
+                "timestamp": 1418895957139,
+                "timestampRelative": 88186
+            },
+            {
+                "coords": {
+                    "latitude": 49.89680705233237,
+                    "longitude": 8.84189717929801,
+                    "altitude": 140.3720359802246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 75.91403198242188,
+                    "speed": 11.0600004196167
+                },
+                "timestamp": 1418895958115,
+                "timestampRelative": 89162
+            },
+            {
+                "coords": {
+                    "latitude": 49.89683264143576,
+                    "longitude": 8.842042992490223,
+                    "altitude": 140.27871322631836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 75.91403198242188,
+                    "speed": 10.869999885559082
+                },
+                "timestamp": 1418895959121,
+                "timestampRelative": 90168
+            },
+            {
+                "coords": {
+                    "latitude": 49.89686189871891,
+                    "longitude": 8.842189163077904,
+                    "altitude": 140.1053123474121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 78.81120300292969,
+                    "speed": 10.75
+                },
+                "timestamp": 1418895960133,
+                "timestampRelative": 91180
+            },
+            {
+                "coords": {
+                    "latitude": 49.89689015620167,
+                    "longitude": 8.842335425385189,
+                    "altitude": 140.2631492614746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 78.81120300292969,
+                    "speed": 10.510000228881836
+                },
+                "timestamp": 1418895961137,
+                "timestampRelative": 92184
+            },
+            {
+                "coords": {
+                    "latitude": 49.896914472273,
+                    "longitude": 8.842472893578023,
+                    "altitude": 140.4318504333496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 78.81120300292969,
+                    "speed": 9.850000381469727
+                },
+                "timestamp": 1418895962125,
+                "timestampRelative": 93172
+            },
+            {
+                "coords": {
+                    "latitude": 49.89693940590581,
+                    "longitude": 8.842601351922442,
+                    "altitude": 140.3632469177246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.52144622802734,
+                    "speed": 8.329999923706055
+                },
+                "timestamp": 1418895963125,
+                "timestampRelative": 94172
+            },
+            {
+                "coords": {
+                    "latitude": 49.89694993794747,
+                    "longitude": 8.842689052033297,
+                    "altitude": 141.1957664489746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.52144622802734,
+                    "speed": 6.389999866485596
+                },
+                "timestamp": 1418895964187,
+                "timestampRelative": 95234
+            },
+            {
+                "coords": {
+                    "latitude": 49.89696372301398,
+                    "longitude": 8.842753404011967,
+                    "altitude": 141.42849349975586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 72.58191680908203,
+                    "speed": 4.389999866485596
+                },
+                "timestamp": 1418895965113,
+                "timestampRelative": 96160
+            },
+            {
+                "coords": {
+                    "latitude": 49.89696213961187,
+                    "longitude": 8.84279832829764,
+                    "altitude": 141.53103256225586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 2.0199999809265137
+                },
+                "timestamp": 1418895966146,
+                "timestampRelative": 97193
+            },
+            {
+                "coords": {
+                    "latitude": 49.896963006431314,
+                    "longitude": 8.84280599033609,
+                    "altitude": 141.35256576538086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 0.25999999046325684
+                },
+                "timestamp": 1418895967108,
+                "timestampRelative": 98155
+            },
+            {
+                "coords": {
+                    "latitude": 49.89696515310698,
+                    "longitude": 8.84281289797912,
+                    "altitude": 141.2869529724121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 0.44999998807907104
+                },
+                "timestamp": 1418895968119,
+                "timestampRelative": 99166
+            },
+            {
+                "coords": {
+                    "latitude": 49.89697508826023,
+                    "longitude": 8.842806147949887,
+                    "altitude": 141.7117576599121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 0
+                },
+                "timestamp": 1418895969127,
+                "timestampRelative": 100174
+            },
+            {
+                "coords": {
+                    "latitude": 49.896974891691215,
+                    "longitude": 8.842805301901535,
+                    "altitude": 141.72011947631836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 0
+                },
+                "timestamp": 1418895970129,
+                "timestampRelative": 101176
+            },
+            {
+                "coords": {
+                    "latitude": 49.89697517642101,
+                    "longitude": 8.842806527754874,
+                    "altitude": 141.5298728942871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 0
+                },
+                "timestamp": 1418895971137,
+                "timestampRelative": 102184
+            },
+            {
+                "coords": {
+                    "latitude": 49.89698530984698,
+                    "longitude": 8.842830551731057,
+                    "altitude": 141.36050033569336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 0.5799999833106995
+                },
+                "timestamp": 1418895972109,
+                "timestampRelative": 103156
+            },
+            {
+                "coords": {
+                    "latitude": 49.89699106334444,
+                    "longitude": 8.842845880167673,
+                    "altitude": 141.1707420349121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 1.4800000190734863
+                },
+                "timestamp": 1418895973113,
+                "timestampRelative": 104160
+            },
+            {
+                "coords": {
+                    "latitude": 49.89699692727816,
+                    "longitude": 8.84287161032339,
+                    "altitude": 141.0013084411621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 1.690000057220459
+                },
+                "timestamp": 1418895974113,
+                "timestampRelative": 105160
+            },
+            {
+                "coords": {
+                    "latitude": 49.897006407409506,
+                    "longitude": 8.842897428815395,
+                    "altitude": 141.17385482788086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 2.6600000858306885
+                },
+                "timestamp": 1418895975130,
+                "timestampRelative": 106177
+            },
+            {
+                "coords": {
+                    "latitude": 49.89701347017994,
+                    "longitude": 8.842944284169766,
+                    "altitude": 142.0035057067871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 70.17350006103516,
+                    "speed": 2.890000104904175
+                },
+                "timestamp": 1418895976111,
+                "timestampRelative": 107158
+            },
+            {
+                "coords": {
+                    "latitude": 49.89702146013616,
+                    "longitude": 8.842976851025742,
+                    "altitude": 141.46999740600586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 66.13164520263672,
+                    "speed": 2.1600000858306885
+                },
+                "timestamp": 1418895977107,
+                "timestampRelative": 108154
+            },
+            {
+                "coords": {
+                    "latitude": 49.897025349053,
+                    "longitude": 8.843009929468662,
+                    "altitude": 140.4976463317871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 66.13164520263672,
+                    "speed": 2.359999895095825
+                },
+                "timestamp": 1418895978186,
+                "timestampRelative": 109233
+            },
+            {
+                "coords": {
+                    "latitude": 49.897025083769186,
+                    "longitude": 8.843056149203496,
+                    "altitude": 142.6621971130371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 66.13164520263672,
+                    "speed": 2.8499999046325684
+                },
+                "timestamp": 1418895979122,
+                "timestampRelative": 110169
+            },
+            {
+                "coords": {
+                    "latitude": 49.89701984920529,
+                    "longitude": 8.843108424925099,
+                    "altitude": 142.9516258239746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 98.0859375,
+                    "speed": 3.2799999713897705
+                },
+                "timestamp": 1418895980110,
+                "timestampRelative": 111157
+            },
+            {
+                "coords": {
+                    "latitude": 49.89701301795421,
+                    "longitude": 8.843168271713743,
+                    "altitude": 142.5902976989746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 99.4921875,
+                    "speed": 3.990000009536743
+                },
+                "timestamp": 1418895981164,
+                "timestampRelative": 112211
+            },
+            {
+                "coords": {
+                    "latitude": 49.897011215845026,
+                    "longitude": 8.843235829853306,
+                    "altitude": 142.2860984802246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 85.4296875,
+                    "speed": 4.699999809265137
+                },
+                "timestamp": 1418895982137,
+                "timestampRelative": 113184
+            },
+            {
+                "coords": {
+                    "latitude": 49.89703082949845,
+                    "longitude": 8.843318894513736,
+                    "altitude": 142.5852928161621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 59.0625,
+                    "speed": 5.010000228881836
+                },
+                "timestamp": 1418895983138,
+                "timestampRelative": 114185
+            },
+            {
+                "coords": {
+                    "latitude": 49.89704724300116,
+                    "longitude": 8.84333391757219,
+                    "altitude": 142.8238182067871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 31.42984962463379,
+                    "speed": 5.25
+                },
+                "timestamp": 1418895984127,
+                "timestampRelative": 115174
+            },
+            {
+                "coords": {
+                    "latitude": 49.897103282411166,
+                    "longitude": 8.843356036608254,
+                    "altitude": 142.8448143005371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 352.4062194824219,
+                    "speed": 5.699999809265137
+                },
+                "timestamp": 1418895985115,
+                "timestampRelative": 116162
+            },
+            {
+                "coords": {
+                    "latitude": 49.89710162036398,
+                    "longitude": 8.843360367981653,
+                    "altitude": 142.72524642944336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 352.4062194824219,
+                    "speed": 6.309999942779541
+                },
+                "timestamp": 1418895986244,
+                "timestampRelative": 117291
+            },
+            {
+                "coords": {
+                    "latitude": 49.897235360292164,
+                    "longitude": 8.843363677878491,
+                    "altitude": 142.32265853881836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 7.828990936279297,
+                    "speed": 7.579999923706055
+                },
+                "timestamp": 1418895987126,
+                "timestampRelative": 118173
+            },
+            {
+                "coords": {
+                    "latitude": 49.89729036062559,
+                    "longitude": 8.843376388274448,
+                    "altitude": 142.47842025756836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 7.828990936279297,
+                    "speed": 8.170000076293945
+                },
+                "timestamp": 1418895988129,
+                "timestampRelative": 119176
+            },
+            {
+                "coords": {
+                    "latitude": 49.897377408546014,
+                    "longitude": 8.843389649320377,
+                    "altitude": 142.02810287475586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 5.710691928863525,
+                    "speed": 8.569999694824219
+                },
+                "timestamp": 1418895989139,
+                "timestampRelative": 120186
+            },
+            {
+                "coords": {
+                    "latitude": 49.8974626736747,
+                    "longitude": 8.84340629594657,
+                    "altitude": 142.4162254333496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 4.112271308898926,
+                    "speed": 9.569999694824219
+                },
+                "timestamp": 1418895990151,
+                "timestampRelative": 121198
+            },
+            {
+                "coords": {
+                    "latitude": 49.89754806458524,
+                    "longitude": 8.843410497336082,
+                    "altitude": 142.9895896911621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 4.112271308898926,
+                    "speed": 9.619999885559082
+                },
+                "timestamp": 1418895991116,
+                "timestampRelative": 122163
+            },
+            {
+                "coords": {
+                    "latitude": 49.89764028659024,
+                    "longitude": 8.843423325968896,
+                    "altitude": 143.8031883239746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0.5288047790527344,
+                    "speed": 9.699999809265137
+                },
+                "timestamp": 1418895992090,
+                "timestampRelative": 123137
+            },
+            {
+                "coords": {
+                    "latitude": 49.89772191468753,
+                    "longitude": 8.843418055982877,
+                    "altitude": 143.0575828552246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0.5288047790527344,
+                    "speed": 9.90999984741211
+                },
+                "timestamp": 1418895993125,
+                "timestampRelative": 124172
+            },
+            {
+                "coords": {
+                    "latitude": 49.89781001604515,
+                    "longitude": 8.84341404295779,
+                    "altitude": 142.9750633239746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0.5288047790527344,
+                    "speed": 9.65999984741211
+                },
+                "timestamp": 1418895994096,
+                "timestampRelative": 125143
+            },
+            {
+                "coords": {
+                    "latitude": 49.89789104621787,
+                    "longitude": 8.843406904501117,
+                    "altitude": 142.7558250427246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0,
+                    "speed": 9.1899995803833
+                },
+                "timestamp": 1418895995108,
+                "timestampRelative": 126155
+            },
+            {
+                "coords": {
+                    "latitude": 49.89797365333721,
+                    "longitude": 8.843404809023074,
+                    "altitude": 142.8090476989746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0,
+                    "speed": 8.8100004196167
+                },
+                "timestamp": 1418895996094,
+                "timestampRelative": 127141
+            },
+            {
+                "coords": {
+                    "latitude": 49.8980389613615,
+                    "longitude": 8.843385027728381,
+                    "altitude": 142.8189353942871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0,
+                    "speed": 8.180000305175781
+                },
+                "timestamp": 1418895997100,
+                "timestampRelative": 128147
+            },
+            {
+                "coords": {
+                    "latitude": 49.89809986241598,
+                    "longitude": 8.843374131255665,
+                    "altitude": 143.37026596069336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0,
+                    "speed": 7.769999980926514
+                },
+                "timestamp": 1418895998106,
+                "timestampRelative": 129153
+            },
+            {
+                "coords": {
+                    "latitude": 49.89817213100233,
+                    "longitude": 8.843373795979623,
+                    "altitude": 143.4292869567871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0,
+                    "speed": 7.769999980926514
+                },
+                "timestamp": 1418895999078,
+                "timestampRelative": 130125
+            },
+            {
+                "coords": {
+                    "latitude": 49.898225950315776,
+                    "longitude": 8.84338888340584,
+                    "altitude": 143.0312156677246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0,
+                    "speed": 5.300000190734863
+                },
+                "timestamp": 1418896000082,
+                "timestampRelative": 131129
+            },
+            {
+                "coords": {
+                    "latitude": 49.898256113586974,
+                    "longitude": 8.843392236166284,
+                    "altitude": 143.0379295349121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 0,
+                    "speed": 4.079999923706055
+                },
+                "timestamp": 1418896001118,
+                "timestampRelative": 132165
+            },
+            {
+                "coords": {
+                    "latitude": 49.898320420185115,
+                    "longitude": 8.843411764200145,
+                    "altitude": 142.64052963256836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 7.5947041511535645,
+                    "speed": 3.940000057220459
+                },
+                "timestamp": 1418896002131,
+                "timestampRelative": 133178
+            },
+            {
+                "coords": {
+                    "latitude": 49.898333771549304,
+                    "longitude": 8.843441752477926,
+                    "altitude": 142.3991355895996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 15.802532196044922,
+                    "speed": 3.700000047683716
+                },
+                "timestamp": 1418896003091,
+                "timestampRelative": 134138
+            },
+            {
+                "coords": {
+                    "latitude": 49.89831408144495,
+                    "longitude": 8.84343859986794,
+                    "altitude": 142.44106674194336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 46.0546875,
+                    "speed": 4.320000171661377
+                },
+                "timestamp": 1418896004104,
+                "timestampRelative": 135151
+            },
+            {
+                "coords": {
+                    "latitude": 49.898369587073006,
+                    "longitude": 8.843535482891689,
+                    "altitude": 142.51028060913086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 61.875,
+                    "speed": 5.429999828338623
+                },
+                "timestamp": 1418896005131,
+                "timestampRelative": 136178
+            },
+            {
+                "coords": {
+                    "latitude": 49.8983872728887,
+                    "longitude": 8.843631623321066,
+                    "altitude": 142.5287742614746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.1796875,
+                    "speed": 6.739999771118164
+                },
+                "timestamp": 1418896006114,
+                "timestampRelative": 137161
+            },
+            {
+                "coords": {
+                    "latitude": 49.89840395287601,
+                    "longitude": 8.843740001329074,
+                    "altitude": 142.5545310974121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 76.640625,
+                    "speed": 7.650000095367432
+                },
+                "timestamp": 1418896007134,
+                "timestampRelative": 138181
+            },
+            {
+                "coords": {
+                    "latitude": 49.89842256070105,
+                    "longitude": 8.843843014919054,
+                    "altitude": 142.51968002319336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 78.3984375,
+                    "speed": 8.1899995803833
+                },
+                "timestamp": 1418896008150,
+                "timestampRelative": 139197
+            },
+            {
+                "coords": {
+                    "latitude": 49.89843655847935,
+                    "longitude": 8.843957344078314,
+                    "altitude": 142.3256492614746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 78.75,
+                    "speed": 8.460000038146973
+                },
+                "timestamp": 1418896009118,
+                "timestampRelative": 140165
+            },
+            {
+                "coords": {
+                    "latitude": 49.89845223263828,
+                    "longitude": 8.844074020170462,
+                    "altitude": 142.4370994567871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 78.3984375,
+                    "speed": 8.960000038146973
+                },
+                "timestamp": 1418896010176,
+                "timestampRelative": 141223
+            },
+            {
+                "coords": {
+                    "latitude": 49.89846937363026,
+                    "longitude": 8.844198156156432,
+                    "altitude": 142.76809310913086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 77.6953125,
+                    "speed": 8.920000076293945
+                },
+                "timestamp": 1418896011119,
+                "timestampRelative": 142166
+            },
+            {
+                "coords": {
+                    "latitude": 49.89848576025096,
+                    "longitude": 8.844319777571451,
+                    "altitude": 142.80886459350586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 77.6953125,
+                    "speed": 8.920000076293945
+                },
+                "timestamp": 1418896012082,
+                "timestampRelative": 143129
+            },
+            {
+                "coords": {
+                    "latitude": 49.898494854615905,
+                    "longitude": 8.84442966432203,
+                    "altitude": 142.3652000427246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 77.34375,
+                    "speed": 9.109999656677246
+                },
+                "timestamp": 1418896013099,
+                "timestampRelative": 144146
+            },
+            {
+                "coords": {
+                    "latitude": 49.89851237279353,
+                    "longitude": 8.844555644326698,
+                    "altitude": 142.7782859802246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 76.640625,
+                    "speed": 9.489999771118164
+                },
+                "timestamp": 1418896014131,
+                "timestampRelative": 145178
+            },
+            {
+                "coords": {
+                    "latitude": 49.898535213479676,
+                    "longitude": 8.844677684836876,
+                    "altitude": 143.3724021911621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 74.8828125,
+                    "speed": 9.399999618530273
+                },
+                "timestamp": 1418896015102,
+                "timestampRelative": 146149
+            },
+            {
+                "coords": {
+                    "latitude": 49.898572554858305,
+                    "longitude": 8.84479511530031,
+                    "altitude": 143.75527572631836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 69.609375,
+                    "speed": 9.079999923706055
+                },
+                "timestamp": 1418896016134,
+                "timestampRelative": 147181
+            },
+            {
+                "coords": {
+                    "latitude": 49.89860155624328,
+                    "longitude": 8.84491338395406,
+                    "altitude": 143.6161766052246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 67.1484375,
+                    "speed": 9.640000343322754
+                },
+                "timestamp": 1418896017125,
+                "timestampRelative": 148172
+            },
+            {
+                "coords": {
+                    "latitude": 49.898645603144445,
+                    "longitude": 8.845019079753053,
+                    "altitude": 143.65713119506836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 62.9296875,
+                    "speed": 9.239999771118164
+                },
+                "timestamp": 1418896018131,
+                "timestampRelative": 149178
+            },
+            {
+                "coords": {
+                    "latitude": 49.89869229034511,
+                    "longitude": 8.845117064201128,
+                    "altitude": 143.5848045349121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 60.46875,
+                    "speed": 8.5
+                },
+                "timestamp": 1418896019146,
+                "timestampRelative": 150193
+            },
+            {
+                "coords": {
+                    "latitude": 49.898735331417896,
+                    "longitude": 8.845220664524328,
+                    "altitude": 144.38589096069336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 58.359375,
+                    "speed": 8.199999809265137
+                },
+                "timestamp": 1418896020133,
+                "timestampRelative": 151180
+            },
+            {
+                "coords": {
+                    "latitude": 49.89876839802591,
+                    "longitude": 8.845321498819482,
+                    "altitude": 143.5481834411621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 57.65625,
+                    "speed": 8.319999694824219
+                },
+                "timestamp": 1418896021100,
+                "timestampRelative": 152147
+            },
+            {
+                "coords": {
+                    "latitude": 49.89882040773509,
+                    "longitude": 8.845417890705955,
+                    "altitude": 143.6341209411621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 56.953125,
+                    "speed": 8.539999961853027
+                },
+                "timestamp": 1418896022110,
+                "timestampRelative": 153157
+            },
+            {
+                "coords": {
+                    "latitude": 49.89886344880787,
+                    "longitude": 8.845510762193095,
+                    "altitude": 144.30361557006836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 56.953125,
+                    "speed": 7.840000152587891
+                },
+                "timestamp": 1418896023121,
+                "timestampRelative": 154168
+            },
+            {
+                "coords": {
+                    "latitude": 49.89890162837682,
+                    "longitude": 8.84559013881613,
+                    "altitude": 143.9146385192871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 56.953125,
+                    "speed": 7.059999942779541
+                },
+                "timestamp": 1418896024162,
+                "timestampRelative": 155209
+            },
+            {
+                "coords": {
+                    "latitude": 49.89893683237014,
+                    "longitude": 8.845679238446843,
+                    "altitude": 144.4489402770996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 56.953125,
+                    "speed": 7.579999923706055
+                },
+                "timestamp": 1418896025123,
+                "timestampRelative": 156170
+            },
+            {
+                "coords": {
+                    "latitude": 49.89897325173942,
+                    "longitude": 8.845779066913618,
+                    "altitude": 144.6512107849121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 56.6015625,
+                    "speed": 6.960000038146973
+                },
+                "timestamp": 1418896026147,
+                "timestampRelative": 157194
+            },
+            {
+                "coords": {
+                    "latitude": 49.89900468387631,
+                    "longitude": 8.845852576204432,
+                    "altitude": 144.6337547302246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 56.25,
+                    "speed": 5.849999904632568
+                },
+                "timestamp": 1418896027114,
+                "timestampRelative": 158161
+            },
+            {
+                "coords": {
+                    "latitude": 49.89902748265294,
+                    "longitude": 8.845910998069538,
+                    "altitude": 144.50857162475586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 56.953125,
+                    "speed": 4.590000152587891
+                },
+                "timestamp": 1418896028123,
+                "timestampRelative": 159170
+            },
+            {
+                "coords": {
+                    "latitude": 49.8990432406309,
+                    "longitude": 8.845969336115612,
+                    "altitude": 144.57571029663086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 58.359375,
+                    "speed": 3.759999990463257
+                },
+                "timestamp": 1418896029124,
+                "timestampRelative": 160171
+            },
+            {
+                "coords": {
+                    "latitude": 49.899045839020886,
+                    "longitude": 8.846022309743656,
+                    "altitude": 144.68606185913086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 59.0625,
+                    "speed": 2.9100000858306885
+                },
+                "timestamp": 1418896030125,
+                "timestampRelative": 161172
+            },
+            {
+                "coords": {
+                    "latitude": 49.89905132916746,
+                    "longitude": 8.846040666111602,
+                    "altitude": 144.77065658569336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 59.4140625,
+                    "speed": 1.309999942779541
+                },
+                "timestamp": 1418896031115,
+                "timestampRelative": 162162
+            },
+            {
+                "coords": {
+                    "latitude": 49.899060716899015,
+                    "longitude": 8.846056004994406,
+                    "altitude": 145.19973373413086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 59.4140625,
+                    "speed": 0.8799999952316284
+                },
+                "timestamp": 1418896032117,
+                "timestampRelative": 163164
+            },
+            {
+                "coords": {
+                    "latitude": 49.89906004634676,
+                    "longitude": 8.846071762972368,
+                    "altitude": 145.6285057067871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 59.4140625,
+                    "speed": 1.0299999713897705
+                },
+                "timestamp": 1418896033160,
+                "timestampRelative": 164207
+            },
+            {
+                "coords": {
+                    "latitude": 49.899050700524725,
+                    "longitude": 8.846081066884889,
+                    "altitude": 145.9656639099121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 59.4140625,
+                    "speed": 1.559999942779541
+                },
+                "timestamp": 1418896034130,
+                "timestampRelative": 165177
+            },
+            {
+                "coords": {
+                    "latitude": 49.899048479320385,
+                    "longitude": 8.846116857611431,
+                    "altitude": 146.59255599975586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 60.1171875,
+                    "speed": 2.859999895095825
+                },
+                "timestamp": 1418896035118,
+                "timestampRelative": 166165
+            },
+            {
+                "coords": {
+                    "latitude": 49.89905229308633,
+                    "longitude": 8.84616371245016,
+                    "altitude": 146.4757957458496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 61.875,
+                    "speed": 3.700000047683716
+                },
+                "timestamp": 1418896036122,
+                "timestampRelative": 167169
+            },
+            {
+                "coords": {
+                    "latitude": 49.89906017207531,
+                    "longitude": 8.846222050496234,
+                    "altitude": 145.10378646850586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 63.28125,
+                    "speed": 4.25
+                },
+                "timestamp": 1418896037128,
+                "timestampRelative": 168175
+            },
+            {
+                "coords": {
+                    "latitude": 49.89907664251504,
+                    "longitude": 8.846273431562675,
+                    "altitude": 144.9795799255371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 64.3359375,
+                    "speed": 4.039999961853027
+                },
+                "timestamp": 1418896038134,
+                "timestampRelative": 169181
+            },
+            {
+                "coords": {
+                    "latitude": 49.89909110129801,
+                    "longitude": 8.846320873134626,
+                    "altitude": 145.4657859802246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 64.6875,
+                    "speed": 3.890000104904175
+                },
+                "timestamp": 1418896039117,
+                "timestampRelative": 170164
+            },
+            {
+                "coords": {
+                    "latitude": 49.89910509907631,
+                    "longitude": 8.846369069077863,
+                    "altitude": 145.7232322692871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 65.390625,
+                    "speed": 3.990000009536743
+                },
+                "timestamp": 1418896040173,
+                "timestampRelative": 171220
+            },
+            {
+                "coords": {
+                    "latitude": 49.8991201445925,
+                    "longitude": 8.846422294163002,
+                    "altitude": 145.2310447692871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 66.4453125,
+                    "speed": 4.210000038146973
+                },
+                "timestamp": 1418896041131,
+                "timestampRelative": 172178
+            },
+            {
+                "coords": {
+                    "latitude": 49.899131837347426,
+                    "longitude": 8.846495635815753,
+                    "altitude": 144.9366111755371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 67.8515625,
+                    "speed": 5.230000019073486
+                },
+                "timestamp": 1418896042125,
+                "timestampRelative": 173172
+            },
+            {
+                "coords": {
+                    "latitude": 49.89914809823958,
+                    "longitude": 8.846586747103228,
+                    "altitude": 145.3029441833496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 67.8515625,
+                    "speed": 5.619999885559082
+                },
+                "timestamp": 1418896043124,
+                "timestampRelative": 174171
+            },
+            {
+                "coords": {
+                    "latitude": 49.89917689007697,
+                    "longitude": 8.846628488981022,
+                    "altitude": 144.6448631286621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 73.828125,
+                    "speed": 5.539999961853027
+                },
+                "timestamp": 1418896044133,
+                "timestampRelative": 175180
+            },
+            {
+                "coords": {
+                    "latitude": 49.899171609477975,
+                    "longitude": 8.846708871432437,
+                    "altitude": 144.85488510131836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 92.4609375,
+                    "speed": 6.019999980926514
+                },
+                "timestamp": 1418896045186,
+                "timestampRelative": 176233
+            },
+            {
+                "coords": {
+                    "latitude": 49.899152582557775,
+                    "longitude": 8.846777183943285,
+                    "altitude": 145.37246322631836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 116.71875,
+                    "speed": 6.519999980926514
+                },
+                "timestamp": 1418896046123,
+                "timestampRelative": 177170
+            },
+            {
+                "coords": {
+                    "latitude": 49.899115241179146,
+                    "longitude": 8.84684097022642,
+                    "altitude": 145.07473373413086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 131.484375,
+                    "speed": 7.389999866485596
+                },
+                "timestamp": 1418896047176,
+                "timestampRelative": 178223
+            },
+            {
+                "coords": {
+                    "latitude": 49.89907031417815,
+                    "longitude": 8.846919005744947,
+                    "altitude": 145.0208396911621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 132.890625,
+                    "speed": 8.329999923706055
+                },
+                "timestamp": 1418896048130,
+                "timestampRelative": 179177
+            },
+            {
+                "coords": {
+                    "latitude": 49.89902304024426,
+                    "longitude": 8.847004249700202,
+                    "altitude": 145.4970359802246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 132.5390625,
+                    "speed": 8.550000190734863
+                },
+                "timestamp": 1418896049124,
+                "timestampRelative": 180171
+            },
+            {
+                "coords": {
+                    "latitude": 49.8989718687254,
+                    "longitude": 8.84709745646347,
+                    "altitude": 146.2936668395996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 130.78125,
+                    "speed": 9.539999961853027
+                },
+                "timestamp": 1418896050151,
+                "timestampRelative": 181198
+            },
+            {
+                "coords": {
+                    "latitude": 49.89891529087899,
+                    "longitude": 8.847187981017722,
+                    "altitude": 145.5541648864746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.375,
+                    "speed": 9.90999984741211
+                },
+                "timestamp": 1418896051154,
+                "timestampRelative": 182201
+            },
+            {
+                "coords": {
+                    "latitude": 49.898857874842264,
+                    "longitude": 8.84729686193992,
+                    "altitude": 145.18825912475586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.671875,
+                    "speed": 10.880000114440918
+                },
+                "timestamp": 1418896052136,
+                "timestampRelative": 183183
+            },
+            {
+                "coords": {
+                    "latitude": 49.898796854587175,
+                    "longitude": 8.84741412476529,
+                    "altitude": 145.0716209411621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.0234375,
+                    "speed": 11.470000267028809
+                },
+                "timestamp": 1418896053182,
+                "timestampRelative": 184229
+            },
+            {
+                "coords": {
+                    "latitude": 49.89872736860988,
+                    "longitude": 8.847542954617037,
+                    "altitude": 144.1968650817871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.078125,
+                    "speed": 11.84000015258789
+                },
+                "timestamp": 1418896054137,
+                "timestampRelative": 185184
+            },
+            {
+                "coords": {
+                    "latitude": 49.89865708635179,
+                    "longitude": 8.847655272119537,
+                    "altitude": 143.6254539489746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.78125,
+                    "speed": 11.550000190734863
+                },
+                "timestamp": 1418896055126,
+                "timestampRelative": 186173
+            },
+            {
+                "coords": {
+                    "latitude": 49.898587432736434,
+                    "longitude": 8.847775049515858,
+                    "altitude": 143.79409408569336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.78125,
+                    "speed": 11.5
+                },
+                "timestamp": 1418896056144,
+                "timestampRelative": 187191
+            },
+            {
+                "coords": {
+                    "latitude": 49.89852088042525,
+                    "longitude": 8.847901364796654,
+                    "altitude": 144.22878646850586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.78125,
+                    "speed": 12
+                },
+                "timestamp": 1418896057137,
+                "timestampRelative": 188184
+            },
+            {
+                "coords": {
+                    "latitude": 49.89845311273811,
+                    "longitude": 8.848028434448734,
+                    "altitude": 144.39809799194336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.4296875,
+                    "speed": 11.90999984741211
+                },
+                "timestamp": 1418896058131,
+                "timestampRelative": 189178
+            },
+            {
+                "coords": {
+                    "latitude": 49.89838421349404,
+                    "longitude": 8.848148211845055,
+                    "altitude": 144.30691146850586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.078125,
+                    "speed": 11.880000114440918
+                },
+                "timestamp": 1418896059111,
+                "timestampRelative": 190158
+            },
+            {
+                "coords": {
+                    "latitude": 49.8983127577695,
+                    "longitude": 8.84826765396525,
+                    "altitude": 143.5028953552246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.0234375,
+                    "speed": 12.029999732971191
+                },
+                "timestamp": 1418896060122,
+                "timestampRelative": 191169
+            },
+            {
+                "coords": {
+                    "latitude": 49.89824260123996,
+                    "longitude": 8.848400674768582,
+                    "altitude": 142.9478416442871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.0234375,
+                    "speed": 11.890000343322754
+                },
+                "timestamp": 1418896061125,
+                "timestampRelative": 192172
+            },
+            {
+                "coords": {
+                    "latitude": 49.898167038382866,
+                    "longitude": 8.848528917887107,
+                    "altitude": 142.5928611755371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.671875,
+                    "speed": 12.239999771118164
+                },
+                "timestamp": 1418896062123,
+                "timestampRelative": 193170
+            },
+            {
+                "coords": {
+                    "latitude": 49.8980994802433,
+                    "longitude": 8.84865322151114,
+                    "altitude": 142.59768295288086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.3203125,
+                    "speed": 11.489999771118164
+                },
+                "timestamp": 1418896063136,
+                "timestampRelative": 194183
+            },
+            {
+                "coords": {
+                    "latitude": 49.89803942390708,
+                    "longitude": 8.84877677076389,
+                    "altitude": 142.6906394958496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.671875,
+                    "speed": 11.109999656677246
+                },
+                "timestamp": 1418896064152,
+                "timestampRelative": 195199
+            },
+            {
+                "coords": {
+                    "latitude": 49.897976140538134,
+                    "longitude": 8.848889004447356,
+                    "altitude": 142.6238670349121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.671875,
+                    "speed": 10.779999732971191
+                },
+                "timestamp": 1418896065124,
+                "timestampRelative": 196171
+            },
+            {
+                "coords": {
+                    "latitude": 49.89790623546568,
+                    "longitude": 8.849005848177567,
+                    "altitude": 142.47195053100586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.3203125,
+                    "speed": 10.9399995803833
+                },
+                "timestamp": 1418896066125,
+                "timestampRelative": 197172
+            },
+            {
+                "coords": {
+                    "latitude": 49.89784244918255,
+                    "longitude": 8.849116992213622,
+                    "altitude": 143.40334701538086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 127.6171875,
+                    "speed": 10.890000343322754
+                },
+                "timestamp": 1418896067117,
+                "timestampRelative": 198164
+            },
+            {
+                "coords": {
+                    "latitude": 49.89778385967938,
+                    "longitude": 8.849226543688074,
+                    "altitude": 143.70132064819336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 127.6171875,
+                    "speed": 10
+                },
+                "timestamp": 1418896068126,
+                "timestampRelative": 199173
+            },
+            {
+                "coords": {
+                    "latitude": 49.897723803343155,
+                    "longitude": 8.849337017171875,
+                    "altitude": 142.1105613708496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 127.96875,
+                    "speed": 9.890000343322754
+                },
+                "timestamp": 1418896069144,
+                "timestampRelative": 200191
+            },
+            {
+                "coords": {
+                    "latitude": 49.89767070398656,
+                    "longitude": 8.84942133911778,
+                    "altitude": 140.3675193786621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.0234375,
+                    "speed": 8.680000305175781
+                },
+                "timestamp": 1418896070129,
+                "timestampRelative": 201176
+            },
+            {
+                "coords": {
+                    "latitude": 49.89762351387171,
+                    "longitude": 8.849496943884388,
+                    "altitude": 140.6415672302246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.4296875,
+                    "speed": 7.5
+                },
+                "timestamp": 1418896071116,
+                "timestampRelative": 202163
+            },
+            {
+                "coords": {
+                    "latitude": 49.897580137522795,
+                    "longitude": 8.849558467053669,
+                    "altitude": 140.9101219177246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 131.1328125,
+                    "speed": 6.019999980926514
+                },
+                "timestamp": 1418896072121,
+                "timestampRelative": 203168
+            },
+            {
+                "coords": {
+                    "latitude": 49.89755469844667,
+                    "longitude": 8.849609429024952,
+                    "altitude": 140.92458724975586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.7265625,
+                    "speed": 4.300000190734863
+                },
+                "timestamp": 1418896073197,
+                "timestampRelative": 204244
+            },
+            {
+                "coords": {
+                    "latitude": 49.897532067308106,
+                    "longitude": 8.849660055720108,
+                    "altitude": 141.86062240600586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 125.15625,
+                    "speed": 4.519999980926514
+                },
+                "timestamp": 1418896074123,
+                "timestampRelative": 205170
+            },
+            {
+                "coords": {
+                    "latitude": 49.89752452359525,
+                    "longitude": 8.849705737092393,
+                    "altitude": 142.27383041381836,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 108.984375,
+                    "speed": 3.2699999809265137
+                },
+                "timestamp": 1418896075115,
+                "timestampRelative": 206162
+            },
+            {
+                "coords": {
+                    "latitude": 49.89753554579792,
+                    "longitude": 8.849748065703409,
+                    "altitude": 141.80007553100586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 81.2109375,
+                    "speed": 3.950000047683716
+                },
+                "timestamp": 1418896076168,
+                "timestampRelative": 207215
+            },
+            {
+                "coords": {
+                    "latitude": 49.89756048195986,
+                    "longitude": 8.849789975219267,
+                    "altitude": 142.5140037536621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 49.5703125,
+                    "speed": 4.349999904632568
+                },
+                "timestamp": 1418896077193,
+                "timestampRelative": 208240
+            },
+            {
+                "coords": {
+                    "latitude": 49.89759740424333,
+                    "longitude": 8.849840350457328,
+                    "altitude": 143.80471420288086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 31.2890625,
+                    "speed": 5.400000095367432
+                },
+                "timestamp": 1418896078144,
+                "timestampRelative": 209191
+            },
+            {
+                "coords": {
+                    "latitude": 49.89764212169675,
+                    "longitude": 8.849898688503401,
+                    "altitude": 144.8195457458496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 42.5390625,
+                    "speed": 6.949999809265137
+                },
+                "timestamp": 1418896079116,
+                "timestampRelative": 210163
+            },
+            {
+                "coords": {
+                    "latitude": 49.89769534678189,
+                    "longitude": 8.849975550555484,
+                    "altitude": 144.8787498474121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 45,
+                    "speed": 8.079999923706055
+                },
+                "timestamp": 1418896080119,
+                "timestampRelative": 211166
+            },
+            {
+                "coords": {
+                    "latitude": 49.897755864122786,
+                    "longitude": 8.850062219434278,
+                    "altitude": 144.5540428161621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 43.9453125,
+                    "speed": 8.149999618530273
+                },
+                "timestamp": 1418896081137,
+                "timestampRelative": 212184
+            },
+            {
+                "coords": {
+                    "latitude": 49.897809592122115,
+                    "longitude": 8.850139416762488,
+                    "altitude": 144.91335678100586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 43.9453125,
+                    "speed": 8.149999618530273
+                },
+                "timestamp": 1418896082094,
+                "timestampRelative": 213141
+            },
+            {
+                "coords": {
+                    "latitude": 49.89786466122595,
+                    "longitude": 8.850219966851967,
+                    "altitude": 144.57790756225586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 42.5390625,
+                    "speed": 8.880000114440918
+                },
+                "timestamp": 1418896083116,
+                "timestampRelative": 214163
+            },
+            {
+                "coords": {
+                    "latitude": 49.897925555752494,
+                    "longitude": 8.850300014027255,
+                    "altitude": 144.4344139099121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 42.5390625,
+                    "speed": 8.880000114440918
+                },
+                "timestamp": 1418896084096,
+                "timestampRelative": 215143
+            },
+            {
+                "coords": {
+                    "latitude": 49.89798598927436,
+                    "longitude": 8.850397579380171,
+                    "altitude": 143.3180809020996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 41.8359375,
+                    "speed": 8.829999923706055
+                },
+                "timestamp": 1418896085175,
+                "timestampRelative": 216222
+            },
+            {
+                "coords": {
+                    "latitude": 49.89804780581025,
+                    "longitude": 8.85048835539152,
+                    "altitude": 144.1133689880371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 41.8359375,
+                    "speed": 9.5
+                },
+                "timestamp": 1418896086160,
+                "timestampRelative": 217207
+            },
+            {
+                "coords": {
+                    "latitude": 49.89810748496083,
+                    "longitude": 8.850572677337425,
+                    "altitude": 144.66701889038086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 41.8359375,
+                    "speed": 9.149999618530273
+                },
+                "timestamp": 1418896087114,
+                "timestampRelative": 218161
+            },
+            {
+                "coords": {
+                    "latitude": 49.89817885686634,
+                    "longitude": 8.85064233095278,
+                    "altitude": 144.6549949645996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 40.78125,
+                    "speed": 9.34000015258789
+                },
+                "timestamp": 1418896088129,
+                "timestampRelative": 219176
+            },
+            {
+                "coords": {
+                    "latitude": 49.89824390043495,
+                    "longitude": 8.850732268773811,
+                    "altitude": 144.7592430114746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 41.1328125,
+                    "speed": 9.170000076293945
+                },
+                "timestamp": 1418896089110,
+                "timestampRelative": 220157
+            },
+            {
+                "coords": {
+                    "latitude": 49.89830638752309,
+                    "longitude": 8.850823380061286,
+                    "altitude": 144.9036521911621,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 40.4296875,
+                    "speed": 9.699999809265137
+                },
+                "timestamp": 1418896090131,
+                "timestampRelative": 221178
+            },
+            {
+                "coords": {
+                    "latitude": 49.89836845551608,
+                    "longitude": 8.850908288740413,
+                    "altitude": 144.40359115600586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 40.078125,
+                    "speed": 9.199999809265137
+                },
+                "timestamp": 1418896091134,
+                "timestampRelative": 222181
+            },
+            {
+                "coords": {
+                    "latitude": 49.89843173888502,
+                    "longitude": 8.850990850486653,
+                    "altitude": 144.6397361755371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 40.078125,
+                    "speed": 9.199999809265137
+                },
+                "timestamp": 1418896092091,
+                "timestampRelative": 223138
+            },
+            {
+                "coords": {
+                    "latitude": 49.89847779744295,
+                    "longitude": 8.85107617826094,
+                    "altitude": 144.11697006225586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 36.9140625,
+                    "speed": 8.180000305175781
+                },
+                "timestamp": 1418896093148,
+                "timestampRelative": 224195
+            },
+            {
+                "coords": {
+                    "latitude": 49.89854791206298,
+                    "longitude": 8.851112220444577,
+                    "altitude": 144.0856590270996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 23.90625,
+                    "speed": 7.769999980926514
+                },
+                "timestamp": 1418896094138,
+                "timestampRelative": 225185
+            },
+            {
+                "coords": {
+                    "latitude": 49.89861010578451,
+                    "longitude": 8.85112361983289,
+                    "altitude": 143.6951560974121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 4,
+                    "heading": 17.2265625,
+                    "speed": 6.570000171661377
+                },
+                "timestamp": 1418896095130,
+                "timestampRelative": 226177
+            },
+            {
+                "coords": {
+                    "latitude": 49.898657128261306,
+                    "longitude": 8.851131331183808,
+                    "altitude": 143.4849510192871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 18.6328125,
+                    "speed": 4.639999866485596
+                },
+                "timestamp": 1418896096107,
+                "timestampRelative": 227154
+            },
+            {
+                "coords": {
+                    "latitude": 49.89868365698484,
+                    "longitude": 8.851163769149082,
+                    "altitude": 144.2624168395996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 34.1015625,
+                    "speed": 3.9000000953674316
+                },
+                "timestamp": 1418896097168,
+                "timestampRelative": 228215
+            },
+            {
+                "coords": {
+                    "latitude": 49.89868453708468,
+                    "longitude": 8.851188663401501,
+                    "altitude": 144.1890525817871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 59.4140625,
+                    "speed": 3.2300000190734863
+                },
+                "timestamp": 1418896098122,
+                "timestampRelative": 229169
+            },
+            {
+                "coords": {
+                    "latitude": 49.898687680298366,
+                    "longitude": 8.851242139943736,
+                    "altitude": 143.8980369567871,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 85.78125,
+                    "speed": 4.28000020980835
+                },
+                "timestamp": 1418896099160,
+                "timestampRelative": 230207
+            },
+            {
+                "coords": {
+                    "latitude": 49.89867682573376,
+                    "longitude": 8.851293604829209,
+                    "altitude": 144.15993881225586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 107.9296875,
+                    "speed": 4.71999979019165
+                },
+                "timestamp": 1418896100138,
+                "timestampRelative": 231185
+            },
+            {
+                "coords": {
+                    "latitude": 49.898648243443944,
+                    "longitude": 8.851366695024865,
+                    "altitude": 143.96047592163086,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 119.53125,
+                    "speed": 6.659999847412109
+                },
+                "timestamp": 1418896101117,
+                "timestampRelative": 232164
+            },
+            {
+                "coords": {
+                    "latitude": 49.898616853216566,
+                    "longitude": 8.851432744421858,
+                    "altitude": 144.5646629333496,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 126.5625,
+                    "speed": 6.789999961853027
+                },
+                "timestamp": 1418896102161,
+                "timestampRelative": 233208
+            },
+            {
+                "coords": {
+                    "latitude": 49.898573057772495,
+                    "longitude": 8.851506672807831,
+                    "altitude": 144.4236717224121,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 131.484375,
+                    "speed": 7.269999980926514
+                },
+                "timestamp": 1418896103129,
+                "timestampRelative": 234176
+            },
+            {
+                "coords": {
+                    "latitude": 49.89852586765764,
+                    "longitude": 8.851570542909998,
+                    "altitude": 144.00503158569336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 136.7578125,
+                    "speed": 7.809999942779541
+                },
+                "timestamp": 1418896104118,
+                "timestampRelative": 235165
+            },
+            {
+                "coords": {
+                    "latitude": 49.89847130146799,
+                    "longitude": 8.851641705267925,
+                    "altitude": 143.6543846130371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 138.8671875,
+                    "speed": 8.069999694824219
+                },
+                "timestamp": 1418896105177,
+                "timestampRelative": 236224
+            },
+            {
+                "coords": {
+                    "latitude": 49.89842272833911,
+                    "longitude": 8.851718734958071,
+                    "altitude": 143.79470443725586,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 136.0546875,
+                    "speed": 7.869999885559082
+                },
+                "timestamp": 1418896106127,
+                "timestampRelative": 237174
+            },
+            {
+                "coords": {
+                    "latitude": 49.89838848826466,
+                    "longitude": 8.851804984741706,
+                    "altitude": 143.62368392944336,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 130.4296875,
+                    "speed": 6.75
+                },
+                "timestamp": 1418896107117,
+                "timestampRelative": 238164
+            },
+            {
+                "coords": {
+                    "latitude": 49.89836074416516,
+                    "longitude": 8.851856784903307,
+                    "altitude": 143.8711814880371,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.671875,
+                    "speed": 3.759999990463257
+                },
+                "timestamp": 1418896108146,
+                "timestampRelative": 239193
+            },
+            {
+                "coords": {
+                    "latitude": 49.898335598455645,
+                    "longitude": 8.851867094644208,
+                    "altitude": 143.7116355895996,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.375,
+                    "speed": 2.0899999141693115
+                },
+                "timestamp": 1418896109127,
+                "timestampRelative": 240174
+            },
+            {
+                "coords": {
+                    "latitude": 49.898326797457315,
+                    "longitude": 8.851859550931353,
+                    "altitude": 142.8793601989746,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 129.0234375,
+                    "speed": 0.23999999463558197
+                },
+                "timestamp": 1418896110144,
+                "timestampRelative": 241191
+            },
+            {
+                "coords": {
+                    "latitude": 49.898326797457315,
+                    "longitude": 8.851859550931353,
+                    "altitude": 143.0331687927246,
+                    "accuracy": 5,
+                    "altitudeAccuracy": 3,
+                    "heading": 128.3203125,
+                    "speed": 0
+                },
+                "timestamp": 1418896111144,
+                "timestampRelative": 242191
+            }
+        ]
+    }
+}
