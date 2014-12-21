@@ -2,6 +2,8 @@
 
 ffwdme.js is a JavaScript toolkit that aims to bring interactive GPS driving directions to the mobile browser.
 
+![Short Demo](http://i.imgur.com/1cbFfbI.gif)
+
 ## Introduction
 
 For an introduction have a look at the guides.
@@ -51,7 +53,7 @@ ffwdme.js uses the following testing setup:
 * Jasmine jQuery - https://github.com/velesin/jasmine-jquery/blob/master/README.md
 * Karma - http://karma-runner.github.io/0.12/config/files.html
 
-To run the specss, install the karma CLI helper globally
+To run the specs, install the karma CLI helper globally
 
 `npm install -g karma-cli`
 
