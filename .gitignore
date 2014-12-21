@@ -1,0 +1,8 @@
+.DS_Store
+.sass-cache
+.awspublish-*
+build
+Desktop.ini
+node_modules
+secrets.json
+static/demo/credentials.js
