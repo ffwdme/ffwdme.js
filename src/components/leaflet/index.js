@@ -72,7 +72,9 @@ var Leaflet = Base.extend({
       maxZoom: 18,
     }).addTo(this.map);
 
-    this.map.locate({setView: true, maxZoom: 17});
+    if(!this.options.disableLeafletLocate) {
+      this.map.locate({setView: true, maxZoom: 17});
+    }
 
     this.setupEventsOnMapReady();
 
