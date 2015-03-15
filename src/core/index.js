@@ -78,8 +78,8 @@ var UtilsProxy = require('./utils/proxy');
     callbacks: null,
 
     defaults: {
-      imageBaseUrl: '/components/',
-      audioBaseUrl: '/components/audio_instructions/voices/'
+      imageBaseUrl: 'components/',
+      audioBaseUrl: 'components/audio_instructions/voices/'
     },
 
     options: {},
