@@ -1,6 +1,6 @@
 {
   "name": "ffwdme.js",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Turn by turn navigation in the browser.",
   "copyright": "Copyright (c) 2011-2015 Christian Bäuerlein, Silvia Hundegger; 2012-2015 flinc GmbH",
   "license": "MIT",
