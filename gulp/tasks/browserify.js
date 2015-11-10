@@ -26,11 +26,9 @@ var banner = ['/**',
   ''].join('\n');
 
 gulp.task('browserify', function() {
-  var bundleMethod = global.isWatching ? watchify : browserify;
-
   var bundles = [];
 
-  var config = {
+  var baseConfig = {
     // Specify the entry point of your app
     entries: [],
     // Add file extentions to make optional in your requires
@@ -40,9 +38,16 @@ gulp.task('browserify', function() {
   };
 
   function setupBundle(inputFile, outputFile) {
-    var coreConfig = Object.create(config);
-    coreConfig.entries = [inputFile];
-    var bundler = bundleMethod(coreConfig);
+    var config = Object.create(baseConfig);
+    config.entries = [inputFile];
+    var bundler;
+
+    if (global.isWatching) {
+      config = Object.assign(config, watchify.args);
+      bundler = watchify(browserify(config));
+    } else {
+      bundler = browserify(config);
+    }
 
     function bundle() {
       // Log when bundling starts
@@ -53,10 +58,10 @@ gulp.task('browserify', function() {
         .on('error', handleErrors)
         // browserify normal version
         .pipe(source(outputFile))
+        .pipe(buffer())
         .pipe(header(banner, { pkg : pkg }))
         .pipe(gulp.dest('./build/'))
         // minified version
-        .pipe(buffer())
         .pipe(rename({ suffix: '.min' }))
         .pipe(uglify({ preserveComments: 'some' }))
         .pipe(gulp.dest('./build/'))

@@ -5,6 +5,8 @@ var bundleLogger = require('../util/bundle_logger');
 var handleErrors = require('../util/handle_errors');
 
 gulp.task('sass', function () {
+  bundleLogger.start();
+
   gulp.src('./src/**/*.scss')
     .pipe(sourcemaps.init())
       .pipe(sass())
