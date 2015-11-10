@@ -14,7 +14,9 @@ You can try a current build including a demo page online at [dev.ffwdmejs.org](h
 
 ## Requirements
 
-The source code is built using `browserify` and `gulp` so you need a working node.js environment on your local machine.
+The source code is built using `browserify` and `gulp` so you need a working node.js environment on your local machine. I'm using node v5.0.0 right now (you can see your version with `node --version`)
+
+Check out the code from GitHub, e.g. by cloning the repository, and `cd` into the main directory of ffwdme.js.
 
 To install all dependencies just do an `npm install`
 
