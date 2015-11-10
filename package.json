@@ -2,7 +2,7 @@
   "name": "ffwdme.js",
   "version": "0.4.0",
   "description": "Turn by turn navigation in the browser.",
-  "copyright": "Copyright (c) 2011-2014 Christian Bäuerlein, Silvia Hundegger; 2012-2014 flinc AG",
+  "copyright": "Copyright (c) 2011-2015 Christian Bäuerlein, Silvia Hundegger; 2012-2015 flinc GmbH",
   "license": "MIT",
   "author": "Christian Bäuerlein <fabrik42@gmail.com>",
   "browser": {},
