@@ -57,6 +57,10 @@ To run the specs, install the karma CLI helper globally
 
 `npm install -g karma-cli`
 
+Then make sure you have the development server running:
+
+`gulp`
+
 And then just call
 
 `karma start`
