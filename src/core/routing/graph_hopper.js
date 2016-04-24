@@ -128,7 +128,7 @@ var GraphHopper = Base.extend({
         distance:     parseInt(instruction.distance, 10),
         duration:     instruction.time / 1000,
         turnAngle:    this.extractTurnAngle(instruction.sign),
-        turnType:     this.extractTurnType(instruction.sign)
+        turnType:     this.extractTurnType(instruction)
       };
 
       d.path = path.slice(instruction.interval[0], instruction.interval[1] + 1);
@@ -153,9 +153,9 @@ var GraphHopper = Base.extend({
   // "EXIT5"
   // "EXIT6"
   // "TU"
-  extractTurnType: function(indication) {
+  extractTurnType: function(instruction) {
     var name;
-    switch (indication) {
+    switch (instruction.sign) {
     case 0: //continue (go straight)
       name = 'C';
       break;
@@ -176,6 +176,9 @@ var GraphHopper = Base.extend({
       break;
     case 3: // turn sharp right
       name = 'TSHR';
+      break;
+    case 6:
+      name = 'EXIT' + instruction.exit_number;
       break;
     // case 'TU': // U-turn
     //   name = 180;
