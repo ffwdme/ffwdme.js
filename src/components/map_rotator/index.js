@@ -14,6 +14,8 @@ var MapRotator = Base.extend({
 
   attrAccessible: ['map'],
 
+  last_heading: 0,
+
   rotating: false,
 
   setupRotation: function() {
@@ -35,8 +37,18 @@ var MapRotator = Base.extend({
     }
 
     var heading = - e.geoposition.coords.heading;
-    heading && this.map.el && this.map.el.animate({ rotate: heading + 'deg' }, 1000, 'ease-in-out');
+    var diff = heading-this.last_heading
+    // rotate in shortest direction
+    if(diff>180){
+      heading-=360
+    }
+    else if(diff<-180){
+      heading+=360
+    }
+    this.last_heading = heading
 
+    this.map.el[0].style.transform = "rotate(" + heading + "deg)"
+ 
   }
 
 });
