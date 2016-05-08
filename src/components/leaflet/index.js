@@ -93,7 +93,7 @@ var Leaflet = Base.extend({
 
   rotateMarker: function(e) {
     var heading = e.geoposition.coords.heading;
-    this.marker && this.marker.setIconAngle(heading);
+    !isNaN(heading) && heading !== null && this.marker && this.marker.setIconAngle(heading);
   },
 
   drawMarkerWithoutRoute: function(e) {
