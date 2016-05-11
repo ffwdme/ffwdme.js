@@ -4,7 +4,7 @@ var MapRotator = Base.extend({
 
   constructor: function(options) {
     this.base(options);
-    this.bindAll(this,'rotateMap', 'setupRotation');
+    this.bindAll(this, 'rotateMap', 'setupRotation');
 
     $(window).on('resize', this.setupRotation);
     ffwdme.on('geoposition:update', this.rotateMap);
@@ -13,6 +13,8 @@ var MapRotator = Base.extend({
   },
 
   attrAccessible: ['map'],
+
+  last_heading: 0,
 
   rotating: false,
 
@@ -23,20 +25,31 @@ var MapRotator = Base.extend({
   },
 
   rotateMap: function(e) {
-    if (!this.map.canControlMap(this)){
+    if (!this.map.canControlMap(this)) {
       this.rotating = false;
       return;
     }
 
     //has control first time
-    if (this.rotating === false){
+    if (this.rotating === false) {
       this.setupRotation();
       this.rotating = true;
     }
 
-    var heading = - e.geoposition.coords.heading;
-    heading && this.map.el && this.map.el.animate({ rotate: heading + 'deg' }, 1000, 'ease-in-out');
+    var heading = -e.geoposition.coords.heading;
+    if (isNaN(heading) || heading === null) {
+      return;
+    }
+    var diff = heading - this.last_heading;
+    // rotate in shortest direction
+    if (diff > 180) {
+      heading -= 360;
+    } else if (diff < -180) {
+      heading += 360;
+    }
+    this.last_heading = heading;
 
+    this.map.el && (this.map.el[0].style.transform = "rotate(" + heading + "deg)");
   }
 
 });

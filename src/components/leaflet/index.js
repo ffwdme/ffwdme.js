@@ -93,7 +93,9 @@ var Leaflet = Base.extend({
 
   rotateMarker: function(e) {
     var heading = e.geoposition.coords.heading;
-    heading && this.marker && this.marker.setIconAngle(heading);
+    if (!isNaN(heading) && heading !== null && this.marker) {
+      this.marker.setIconAngle(heading);
+    }
   },
 
   drawMarkerWithoutRoute: function(e) {
@@ -237,7 +239,7 @@ var Leaflet = Base.extend({
   },
 
   setMapContainerSize: function(width, height, top, left, rotate){
-    this.el && this.el.animate({ rotate: rotate + 'deg' });
+    this.el && (this.el[0].style.transform = 'rotate(' + rotate + 'deg');
     this.el.css({
       width: width + 'px',
       height: height + 'px',
