@@ -34,7 +34,7 @@ var GraphHopper = Base.extend({
    *
    * @type String
    */
-  BASE_URL: 'http://graphhopper.com/api/1/',
+  BASE_URL: '//graphhopper.com/api/1/',
 
   // set via constructor
   apiKey: null,
