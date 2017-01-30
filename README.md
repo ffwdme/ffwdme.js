@@ -67,6 +67,13 @@ And then just call
 
 `karma start`
 
+## Testing your local install on mobile devices
+
+Please be aware that some browsers only allow the usage of HTML5 Geolocation API in a [secure context](https://developers.google.com/web/updates/2016/04/geolocation-on-secure-contexts-only).
+And while `localhost` is a secure context, serving you local install to a mobile device must be done via `https`, otherwise the access to the Geolocation API will be denied and ffwdme.js won't work.
+
+Please have a look at this [pull request](https://github.com/ffwdme/ffwdme.js/pull/29) fixing this for browsersync or make use of another tool like [ngrok](https://ngrok.com/) that provides `https` connections for the mobile testing device.
+
 ## Special Thanks
 
 * [Benedikt Deicke](https://github.com/benedikt)
