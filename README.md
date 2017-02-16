@@ -6,7 +6,7 @@ ffwdme.js is a JavaScript toolkit that aims to bring interactive GPS driving dir
 
 ## Introduction
 
-For an introduction have a look at the [guides](http://ffwdmejs.org/guides/).
+For an introduction have a look at the [guides](http://ffwdmejs.org/guides.html).
 
 ## Trying it out online
 
