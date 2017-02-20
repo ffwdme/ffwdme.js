@@ -12,6 +12,8 @@ For an introduction have a look at the [guides](http://ffwdmejs.org/guides.html)
 
 You can try a current build including a demo page online at [dev.ffwdmejs.org](http://dev.ffwdmejs.org/)
 
+Please refer to this tutorial about [how to get started with the demo application](https://github.com/ffwdme/ffwdme.js/wiki/How-to-get-started-with-the-demo-application).
+
 ## Requirements
 
 The source code is built using `browserify` and `gulp` so you need a working node.js environment on your local machine. I'm using node v5.0.0 right now (you can see your version with `node --version`)
