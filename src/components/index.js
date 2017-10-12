@@ -2,6 +2,7 @@ var Base = require('./base');
 var Arrow = require('./arrow');
 var ArrivalTime = require('./arrival_time');
 var AudioInstructions = require('./audio_instructions');
+var AudioInstructionsWeb = require('./audio_instructions_web');
 var AutoReroute = require('./auto_reroute');
 var AutoZoom = require('./auto_zoom');
 var DistanceToDestination = require('./distance_to_destination');
@@ -14,12 +15,13 @@ var Speed = require('./speed');
 var Zoom = require('./zoom');
 var TimeToDestination = require('./time_to_destination');
 
-;(function(ffwdme){
+(function(ffwdme){
   ffwdme.components = {
     Base: Base,
     ArrivalTime: ArrivalTime,
     Arrow: Arrow,
     AudioInstructions: AudioInstructions,
+    AudioInstructionsWeb: AudioInstructionsWeb,
     AutoReroute: AutoReroute,
     AutoZoom: AutoZoom,
     DistanceToDestination: DistanceToDestination,
