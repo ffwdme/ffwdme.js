@@ -20,6 +20,11 @@ var Base = ffwdme.Class.extend({
       // TODO: create a trigger for this
       window.setTimeout(ffwdme.components.Base.updateOrientationClass, 200);
     }
+
+    if (this.options.classes) {
+        if (this.classes === null) this.classes = "";
+        this.classes += " " + this.options.classes;
+    }
   },
 
   classes: null,
@@ -55,6 +60,14 @@ var Base = ffwdme.Class.extend({
 
     grid.x && el.addClass('ffwdme-grid-x' + grid.x);
     grid.y && el.addClass('ffwdme-grid-y' + grid.y);
+    if (grid.w) {
+        // remove any width classes
+        el.attr('class',
+            function(i, c){
+                return c.replace(/(^|\s)ffwdme-grid-w\S+/g, '');
+            });
+        grid.w && el.addClass('ffwdme-grid-w' + grid.w);
+    }
   },
 
   createTestElement: function() {
