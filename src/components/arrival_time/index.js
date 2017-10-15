@@ -8,7 +8,7 @@ var ArrivalTime = BaseIcon.extend({
 
     constructor: function(options) {
 
-      if (typeof options.defaultUnit !== 'undefined') this.defaultUnit = options.defaultUnit;
+      if (options && typeof options.defaultUnit !== 'undefined') this.defaultUnit = options.defaultUnit;
 
         this.base(options);
 
