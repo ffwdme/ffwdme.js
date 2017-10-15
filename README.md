@@ -2,14 +2,6 @@
 
 ffwdme.js is a JavaScript toolkit that aims to bring interactive GPS driving directions to the mobile browser.
 
-## Fork Reason
-
-Added audio instructions using speechutterance in html5 browser. Allows more descriptive instructions such as "In 100m Turn Left On To Church Lane" and allows easy addition of new instructions if required as you aren't restricted to the sprites in the voice file. eg "Turn right in 300m" "Turn right in 200m" "Continue on High Street for 7.8km"
-
-Added a new "grid.w" element to allow more control over the layout by adusting the width. Also made it apply classes specified in  options.classes.
-
-Changed demo.html to show a new layout and use "audio_instructions_web".
-
 ![Short Demo](http://i.imgur.com/1cbFfbI.gif)
 
 ## Introduction

@@ -32,7 +32,7 @@ WebAudioPlayer.prototype.canPlayAudio = null;
  *
  * .
  */
-WebAudioPlayer.prototype.play = function (directionCode, street) {
+WebAudioPlayer.prototype.play = function (directionCode, nextDirection) {
 
     if (!this.enabled) return false;
 
@@ -45,7 +45,7 @@ WebAudioPlayer.prototype.play = function (directionCode, street) {
     }
 
     if (typeof street !== undefined) {
-        direction = direction.replace('!', 'on to ' + street);
+        direction = direction.replace('{{street}}', nextDirection.street);
     }
 
     var msg = new SpeechSynthesisUtterance(direction);

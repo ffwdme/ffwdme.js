@@ -40,5 +40,9 @@
     "vinyl-source-stream": "~1.1.0",
     "watchify": "~3.6.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "util-deprecate": "^1.0.2",
+    "wrappy": "^1.0.2"
+  }
 }

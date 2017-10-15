@@ -1,7 +1,7 @@
 .DS_Store
 .sass-cache
 .awspublish-*
-build
+#build
 Desktop.ini
 node_modules
 secrets.json
