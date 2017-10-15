@@ -48,7 +48,7 @@ var AudioInstructionsWeb = Base.extend({
 
     var action = this.audioAction(distance, nextDirection.turnType);
     if (action.length && action != this.lastAction){
-      this.player.play(action, nextDirection.street);
+      this.player.play(action, nextDirection);
       this.lastAction = action;
     }
 
@@ -130,7 +130,7 @@ var AudioInstructionsWeb = Base.extend({
   setIcon: function() {
     if (!this.iconEl) {
       var img = document.createElement('img');
-      this.iconEl = $(img).addClass('ffwdme-components-audio-instructions').appendTo($(this.el));
+      this.iconEl = $(img).addClass('ffwdme-components-audio-instructions-web').appendTo($(this.el));
     }
 
     this.iconEl[0].src = this.imgUrl();
