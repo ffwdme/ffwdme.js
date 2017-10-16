@@ -44,7 +44,7 @@ WebAudioPlayer.prototype.play = function (directionCode, nextDirection) {
         return false;
     }
 
-    if (typeof street !== undefined) {
+    if (typeof nextDirection !== 'undefined') {
         direction = direction.replace('{{street}}', nextDirection.street);
     }
 
