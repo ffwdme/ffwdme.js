@@ -41,7 +41,3 @@ html, body {
 #playground.hidden {
   display: none;
 }
-
-.ffwdme-debug-wrapper>button {
-    margin-top: 100px;
-}
