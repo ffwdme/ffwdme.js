@@ -6,6 +6,14 @@ var ArrivalTime = BaseIcon.extend({
 
   defaultUnit: 'Uhr',
 
+    constructor: function(options) {
+
+      if (options && typeof options.defaultUnit !== 'undefined') this.defaultUnit = options.defaultUnit;
+
+        this.base(options);
+
+    },
+
   format: function(date) {
     var min = date.getMinutes();
     return [ date.getHours(), min > 10 ? min : ("0" + min) ].join(':');
