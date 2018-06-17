@@ -1,3 +1,11 @@
+----
+
+# 🛑 🛑 🛑 DEPRECATED 🛑 🛑 🛑
+
+This project is deprecated and will not receive updates anymore.
+
+----
+
 # ffwdme.js
 
 ffwdme.js is a JavaScript toolkit that aims to bring interactive GPS driving directions to the mobile browser.
